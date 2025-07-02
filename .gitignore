@@ -174,9 +174,8 @@ cython_debug/
 .pypirc
 
 # Arquivos e Pastas
-/anonymous/
-/.vscode/
-/notebooks/validacao_main.ipynb
+anonymous/
+.vscode/
 pasta.py
-/teste/
-/processed/* 
+teste/
+processed/*
