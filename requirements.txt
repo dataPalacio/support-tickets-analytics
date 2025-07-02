@@ -1,0 +1,6 @@
+# Adicione aqui as dependencias do seu projeto
+pandas
+numpy
+os
+re
+unicodedata

@@ -1,0 +1,224 @@
+﻿ID;Título;Equipamento Quantidade;Data de abertura;Requerente - Requerente;Localização;Atribuído - Grupo técnico
+30212;Suporte à estação de trabalho;1;01/07/2025;user_001;LOC_001; Bancada
+30210;Suporte à estação de trabalho;1;01/07/2025;user_002;LOC_001; Suporte N2
+30167;Suporte à estação de trabalho;2;01/07/2025;user_003;LOC_001; Suporte N2
+30159;Suporte à estação de trabalho;1;01/07/2025;user_004;LOC_002; Bancada
+30158;Suporte à estação de trabalho;2;01/07/2025;user_005;LOC_001; Suporte N2
+30128;Solicitação de equipamento - Computador;3;01/07/2025;user_006;LOC_001; Suporte N2
+30127;Suporte em eventos;2;01/07/2025;user_007;LOC_003; Equipe Regional
+30123;Suporte em eventos;1;01/07/2025;user_007;LOC_003; Equipe Regional
+30115;Suporte em eventos;2;01/07/2025;user_007;LOC_003; Equipe Regional
+30078;Estabilizador/No-break;2;01/07/2025;user_008;LOC_004; Suporte N2
+30077;Solicitação de equipamento - Estabilizador/Nobreak;3;01/07/2025;user_008;LOC_004; Suporte N2
+30071;Suporte à estação de trabalho;2;01/07/2025;user_009;LOC_005; Bancada
+30060;Suporte à estação de trabalho;2;01/07/2025;user_009;LOC_005; Suporte N2
+30053;Solicitação de equipamento - Computador;2;30/06/2025;user_010;LOC_005; Suporte N2
+30022;Suporte em eventos;2;30/06/2025;user_011;LOC_001; Eventos
+30006;Solicitação de equipamento - Computador;2;30/06/2025;user_012;LOC_001; Suporte N2
+29985;Usuário da rede institucional;3;30/06/2025;user_013;LOC_001; Suporte N2
+29970;Solicitação de equipamento - Computador;3;30/06/2025;user_010;LOC_005; Suporte N2
+29952;Rede, Intranet e Internet;1;30/06/2025;user_014;LOC_001; Suporte N2
+29951;Rede, Intranet e Internet;1;30/06/2025;user_015;LOC_001; Suporte N2
+29945;Suporte à estação de trabalho;3;30/06/2025;user_016;LOC_001; Suporte N2
+29944;Suporte à estação de trabalho;1;30/06/2025;user_016;LOC_001; Bancada
+29897;Solicitação de equipamento - Computador;2;30/06/2025;user_017;LOC_001; Suporte N2
+29889;Backup;1;30/06/2025;user_018;LOC_001; Suporte N2
+29835;Solicitação de equipamento - Computador;1;30/06/2025;user_019;LOC_001; Suporte N2
+29822;Suporte à estação de trabalho;2;30/06/2025;user_017;LOC_001; Bancada
+29793;Suporte à estação de trabalho;3;30/06/2025;user_009;LOC_005; Bancada
+29787;Solicitação de equipamento - Computador;1;30/06/2025;user_009;LOC_005; Suporte N2
+29774;Solicitação de equipamento - Computador;2;29/06/2025;user_020;LOC_001; Suporte N2
+29718;Suporte em eventos;1;27/06/2025;user_011;LOC_001; Eventos
+29572;Suporte em eventos;3;27/06/2025;user_011;LOC_001; Eventos
+29559;Suporte à estação de trabalho;2;27/06/2025;user_021;LOC_001; Bancada
+29551;Suporte à estação de trabalho;1;27/06/2025;user_022;LOC_001; Suporte N2
+29479;Solicitação de equipamento - Computador;3;26/06/2025;user_023;LOC_006; Suporte N2
+29478;Suporte em eventos;1;26/06/2025;user_011;LOC_001; Eventos
+29413;Certificado Digital;1;26/06/2025;user_024;LOC_007; Suporte N2
+29407;Solicitação de equipamento - Computador;3;26/06/2025;user_025;LOC_008; Suporte N2
+29399;Solicitação de equipamento - Computador;1;26/06/2025;user_026;LOC_005; Suporte N2
+29379;Impressora e serviços de impressão;2;26/06/2025;user_026;LOC_005; Suporte N2
+29360;Solicitação de equipamento - Computador;2;26/06/2025;user_027;LOC_003; Suporte N2
+29348;Suporte à estação de trabalho;1;26/06/2025;user_028;LOC_001; Suporte N2
+29346;Impressora e serviços de impressão;3;26/06/2025;user_029;LOC_001; Suporte N2
+29343;Suporte à estação de trabalho;1;26/06/2025;user_009;LOC_005; Suporte N2
+29265;Solicitação de equipamento - Computador;3;26/06/2025;user_023;LOC_006; Suporte N2
+29261;Solicitação de equipamento - Computador;2;26/06/2025;user_023;LOC_006; Suporte N2
+29209;Suporte à estação de trabalho;1;25/06/2025;user_030;LOC_001; Suporte N2
+29160;Suporte em eventos;3;25/06/2025;user_011;LOC_001; Eventos
+29129;Suporte à estação de trabalho;2;25/06/2025;user_031;LOC_003; Equipe Regional
+29120;Suporte à estação de trabalho;2;25/06/2025;user_032;LOC_001; Suporte N2
+29093;Impressora e serviços de impressão;1;25/06/2025;user_033;LOC_001; Suporte N2
+28952;Solicitação de equipamento - Computador;1;24/06/2025;user_034;LOC_009; Suporte N2
+28907;E-mail Institucional;1;23/06/2025;user_035;LOC_005; Suporte N2
+28805;Solicitação de equipamento - Computador;2;23/06/2025;user_023;LOC_006; Suporte N2
+28804;Suporte à estação de trabalho;1;23/06/2025;user_032;LOC_001; Bancada
+28797;Certificado Digital;1;23/06/2025;user_036;LOC_003; Suporte N2
+28785;Suporte à estação de trabalho;3;23/06/2025;user_009;LOC_005; Bancada
+28756;Solicitação de equipamento - Computador;3;23/06/2025;user_037;LOC_010; Suporte N2
+28745;Suporte à estação de trabalho;1;23/06/2025;user_009;LOC_005; Bancada
+28740;Suporte à estação de trabalho;3;23/06/2025;user_009;LOC_005; Suporte N2
+28669;Suporte à estação de trabalho;1;23/06/2025;user_038;LOC_005; Suporte N2
+28662;Suporte à estação de trabalho;2;23/06/2025;user_039;LOC_011; Suporte N2
+28642;Suporte à estação de trabalho;2;23/06/2025;user_040;LOC_001; Suporte N2
+28592;Solicitação de equipamento - Computador;1;18/06/2025;user_041;LOC_009; Suporte N2
+28577;Suporte à estação de trabalho;3;18/06/2025;user_042;LOC_005; Suporte N2
+28569;Solicitação de equipamento - Computador;1;18/06/2025;user_037;LOC_010; Suporte N2
+28364;Solicitação de equipamento - Computador;3;18/06/2025;user_043;LOC_001; Suporte N2
+28232;Solicitação de equipamento - Computador;3;17/06/2025;user_044;LOC_012; Suporte N2
+28089;Solicitação de equipamento - Computador;1;17/06/2025;user_045;LOC_013; Aguardando Equipamento
+28074;Solicitação de equipamento - Computador;2;17/06/2025;user_046;LOC_014; Suporte N2
+27824;Impressora e serviços de impressão;1;13/06/2025;user_047;LOC_001; Suporte N2
+27755;Solicitação de equipamento - Computador;1;13/06/2025;user_048;LOC_001; Suporte N2
+27754;Solicitação de equipamento - Computador;1;13/06/2025;user_048;LOC_001; Suporte N2
+27586;Suporte à estação de trabalho;1;12/06/2025;user_017;LOC_001; Suporte N2
+27524;Solicitação de equipamento - Computador;2;12/06/2025;user_049;LOC_015; Suporte N2
+27441;Solicitação de equipamento - Computador;1;12/06/2025;user_050;LOC_016; Suporte N2
+27224;Suporte à estação de trabalho;2;11/06/2025;user_051;LOC_009; Suporte N2
+27198;Suporte à estação de trabalho;1;11/06/2025;user_052;LOC_001; Suporte N2
+27038;Solicitação de equipamento - Computador;3;10/06/2025;user_053;LOC_001; Suporte N2
+26962;Solicitação de equipamento - Computador;3;10/06/2025;user_054;LOC_014; Suporte N2
+26958;Suporte à estação de trabalho;3;10/06/2025;user_010;LOC_005; Suporte N2
+26718;Solicitação de equipamento - Computador;2;09/06/2025;user_055;LOC_013; Suporte N2
+26627;Impressora e serviços de impressão;3;09/06/2025;user_029;LOC_001; Suporte N2
+26484;Solicitação de equipamento - Computador;2;06/06/2025;user_056;LOC_001; Suporte N2
+26451;Solicitação de equipamento - Computador;2;06/06/2025;user_054;LOC_003; Suporte N2
+26450;Solicitação de equipamento - Computador;3;06/06/2025;user_054;LOC_008; Suporte N2
+26376;Impressora e serviços de impressão;3;06/06/2025;user_056;LOC_001; Suporte N2
+26302;Estabilizador/No-break;2;05/06/2025;user_057;LOC_017; Suporte N2
+26284;Impressora e serviços de impressão;1;05/06/2025;user_051;LOC_009; Apoio a Estagiário
+26281;Solicitação de equipamento - Computador;3;05/06/2025;user_058;LOC_001; Suporte N2
+26271;Solicitação de equipamento - Computador;2;05/06/2025;user_059;LOC_001; Suporte N2
+26150;Solicitação de equipamento - Computador;3;05/06/2025;user_060;LOC_001; Suporte N2
+26065;Suporte à estação de trabalho;1;04/06/2025;user_061;LOC_001; Suporte N2
+25878;Impressora e serviços de impressão;1;04/06/2025;user_017;LOC_001; Suporte N2
+25809;Solicitação de equipamento - Computador;1;04/06/2025;user_062;LOC_005; Suporte N2
+25650;Solicitação de equipamento - Computador;2;03/06/2025;user_054;LOC_018; Suporte N2
+25331;Suporte à estação de trabalho;1;02/06/2025;user_024;LOC_007; Suporte N2
+25117;Solicitação de equipamento - Computador;2;30/05/2025;user_063;LOC_019; Suporte N2
+25086;Impressora e serviços de impressão;2;30/05/2025;user_063;LOC_019; Suporte N2
+25005;Solicitação de equipamento - Computador;2;29/05/2025;user_030;LOC_001; Suporte N2
+25000;Solicitação de equipamento - Computador;1;29/05/2025;user_064;LOC_001; Suporte N2
+24867;Solicitação de equipamento - Computador;2;29/05/2025;user_065;LOC_020; Suporte N2
+24854;Impressora e serviços de impressão;1;29/05/2025;user_066;LOC_001; Suporte N2
+24712;Suporte à estação de trabalho;3;28/05/2025;user_067;LOC_021; Equipe Regional
+24709;Solicitação de equipamento - Computador;2;28/05/2025;user_067;LOC_021; Suporte N2
+24640;Estabilizador/No-break;1;28/05/2025;user_068;LOC_022; Suporte N2
+24592;Solicitação de equipamento - Computador;3;28/05/2025;user_069;LOC_001; Suporte N2
+24507;Suporte à estação de trabalho;2;27/05/2025;user_070;LOC_023; Bancada
+24494;Solicitação de equipamento - Computador;2;27/05/2025;user_071;LOC_003; Suporte N2
+24479;Solicitação de equipamento - Computador;3;27/05/2025;user_072;LOC_023; Suporte N2
+24275;Solicitação de equipamento - Computador;1;27/05/2025;user_029;LOC_001; Suporte N2
+24029;Suporte à estação de trabalho;1;26/05/2025;user_073;LOC_024; Suporte N2
+23780;Solicitação de equipamento - Computador;1;23/05/2025;user_074;LOC_025; Suporte N2
+23542;Solicitação de equipamento - Computador;3;22/05/2025;user_010;LOC_005; Suporte N2
+23463;Impressora e serviços de impressão;1;21/05/2025;user_057;LOC_026; Suporte N2
+23436;Solicitação de equipamento - Computador;3;21/05/2025;user_055;LOC_027; Suporte N2
+23434;Solicitação de equipamento - Computador;2;21/05/2025;user_010;LOC_005; Suporte N2
+23432;Solicitação de equipamento - Computador;1;21/05/2025;user_010;LOC_005; Suporte N2
+23420;Suporte à estação de trabalho;2;21/05/2025;user_075;LOC_028; Suporte N2
+23418;Solicitação de equipamento - Computador;1;21/05/2025;user_010;LOC_005; Suporte N2
+23416;Solicitação de equipamento - Computador;1;21/05/2025;user_010;LOC_005; Suporte N2
+23400;Solicitação de equipamento - Computador;1;21/05/2025;user_044;LOC_012; Bancada
+23308;Solicitação de equipamento - Computador;3;21/05/2025;user_076;LOC_029; Suporte N2
+23305;Solicitação de equipamento - Computador;3;21/05/2025;user_077;LOC_030; Suporte N2
+23288;Solicitação de equipamento - Computador;3;21/05/2025;user_077;LOC_003; Suporte N2
+23269;Impressora e serviços de impressão;2;21/05/2025;user_055;LOC_025; Suporte N2
+23260;Solicitação de equipamento - Computador;1;21/05/2025;user_055;LOC_031; Suporte N2
+23257;Suporte à estação de trabalho;1;21/05/2025;user_004;LOC_002; Bancada
+23199;Solicitação de equipamento - Computador;2;20/05/2025;user_078;LOC_032; Suporte N2
+23197;Solicitação de equipamento - Computador;1;20/05/2025;user_078;LOC_007; Suporte N2
+23194;Solicitação de equipamento - Computador;3;20/05/2025;user_078;LOC_032; Suporte N2
+22773;Solicitação de equipamento - Computador;3;19/05/2025;user_037;LOC_010; Suporte N2
+22750;Solicitação de equipamento - Computador;1;19/05/2025;user_079;LOC_001; Suporte N2
+22682;Solicitação de equipamento - Periférico - Webcam;2;18/05/2025;user_010;LOC_005; Suporte N2
+22637;Solicitação de equipamento - Periférico - Webcam;3;16/05/2025;user_073;LOC_024; Suporte N2
+22377;Impressora e serviços de impressão;1;15/05/2025;user_080;LOC_001; Suporte N2
+22259;Solicitação de equipamento - Periférico - Webcam;1;15/05/2025;user_081;LOC_033; Suporte N2
+22252;Solicitação de equipamento - Periférico - Webcam;3;15/05/2025;user_082;LOC_034; Suporte N2
+22250;Solicitação de equipamento - Periférico - Webcam;3;15/05/2025;user_083;LOC_030; Suporte N2
+22235;Solicitação de equipamento - Periférico - Webcam;2;15/05/2025;user_084;LOC_035; Suporte N2
+22197;Solicitação de equipamento - Periférico - Webcam;2;15/05/2025;user_085;LOC_016; Suporte N2
+22192;Solicitação de equipamento - Computador;3;15/05/2025;user_045;LOC_013; Suporte N2
+21752;Solicitação de equipamento - Computador;3;13/05/2025;user_086;LOC_001; Suporte N2
+21610;Solicitação de equipamento - Computador;3;13/05/2025;user_087;LOC_001; Suporte N2
+21473;Solicitação de equipamento - Computador;3;12/05/2025;user_001;LOC_001; Suporte N2
+21368;Estabilizador/No-break;1;12/05/2025;user_088;LOC_001; Suporte N2
+21316;Solicitação de equipamento - Computador;2;09/05/2025;user_089;LOC_001; Suporte N2
+21177;Solicitação de equipamento - Computador;3;09/05/2025;user_090;LOC_001; Suporte N2
+21172;Solicitação de equipamento - Computador;2;09/05/2025;user_090;LOC_001; Suporte N2
+21154;Solicitação de equipamento - Computador;3;09/05/2025;user_091;LOC_001; Suporte N2
+21011;Solicitação de equipamento - Computador;1;08/05/2025;user_092;LOC_001; Suporte N2
+20957;Solicitação de equipamento - Computador;3;08/05/2025;user_079;LOC_001; Suporte N2
+20799;Solicitação de equipamento - Computador;3;07/05/2025;user_093;LOC_001; Suporte N2
+19975;Suporte à estação de trabalho;2;02/05/2025;user_017;LOC_001; Suporte N2
+19833;Solicitação de equipamento - Computador;2;30/04/2025;user_094;LOC_001; Suporte N2
+19562;Suporte à estação de trabalho;3;29/04/2025;user_074;LOC_025; Suporte N2
+19506;Solicitação de equipamento - Computador;1;29/04/2025;user_095;LOC_011; Suporte N2
+19343;Estabilizador/No-break;1;28/04/2025;user_054;LOC_036; Suporte N2
+19340;Solicitação de equipamento - Computador;1;28/04/2025;user_054;LOC_036; Suporte N2
+18991;Suporte à estação de trabalho;3;25/04/2025;user_082;LOC_034; Suporte N2
+18824;Solicitação de equipamento - Computador;1;24/04/2025;user_096;LOC_037; Suporte N2
+18743;Solicitação de equipamento - Computador;1;24/04/2025;user_097;LOC_001; Suporte N2
+18552;Solicitação de equipamento - Computador;2;23/04/2025;user_098;LOC_001; Suporte N2
+18335;Solicitação de equipamento - Computador;1;22/04/2025;user_028;LOC_001; Suporte N2
+18015;Solicitação de equipamento - Periférico - Fone;2;15/04/2025;user_022;LOC_001; Suporte N2
+18014;Solicitação de equipamento - Periférico - Fone;2;15/04/2025;user_022;LOC_001; Suporte N2
+18004;Solicitação de equipamento - Periférico - Fone;1;15/04/2025;user_099;LOC_001; Suporte N2
+17578;Solicitação de equipamento - Periférico - Fone;2;11/04/2025;user_044;LOC_012; Suporte N2
+17576;Solicitação de equipamento - Periférico - Fone;2;11/04/2025;user_044;LOC_012; Suporte N2
+17474;Solicitação de equipamento - Periférico - Fone;1;10/04/2025;user_044;LOC_012; Suporte N2
+17471;Solicitação de equipamento - Periférico - Fone;3;10/04/2025;user_044;LOC_012; Suporte N2
+17465;Solicitação de equipamento - Periférico - Fone;1;10/04/2025;user_017;LOC_001; Suporte N2
+17463;Solicitação de equipamento - Periférico - Fone;3;10/04/2025;user_044;LOC_012; Suporte N2
+17427;Solicitação de equipamento - Periférico - Fone;3;10/04/2025;user_044;LOC_012; Suporte N2
+17414;Solicitação de equipamento - Periférico - Fone;1;10/04/2025;user_044;LOC_012; Suporte N2
+17136;Solicitação de equipamento - Computador;2;09/04/2025;user_017;LOC_001; Suporte N2
+16986;Suporte à estação de trabalho;2;09/04/2025;user_100;LOC_001; Bancada
+16364;Solicitação de equipamento - Computador;3;04/04/2025;user_091;LOC_001; Suporte N2
+15535;Solicitação de equipamento - Computador;2;01/04/2025;user_101;LOC_001; Suporte N2
+15385;Solicitação de equipamento - Computador;1;31/03/2025;user_102;LOC_005; Suporte N2
+15221;Solicitação de equipamento - Computador;1;31/03/2025;user_063;LOC_019; Suporte N2
+15220;Solicitação de equipamento - Computador;2;31/03/2025;user_063;LOC_019; Suporte N2
+14991;Solicitação de equipamento - Computador;2;28/03/2025;user_103;LOC_001; Suporte N2
+14621;Solicitação de equipamento - Computador;3;26/03/2025;user_086;LOC_001; Suporte N2
+13484;Solicitação de equipamento - Computador;3;20/03/2025;user_104;LOC_036; Suporte N2
+13184;Solicitação de equipamento - Computador;3;19/03/2025;user_105;LOC_001; Suporte N2
+12891;Impressora e serviços de impressão;2;18/03/2025;user_010;LOC_005; Suporte N2
+12839;Solicitação de equipamento - Computador;3;18/03/2025;user_029;LOC_001; Suporte N2
+12520;Impressora e serviços de impressão;3;14/03/2025;user_010;LOC_005; Suporte N2
+12325;Solicitação de equipamento - Computador;1;13/03/2025;user_049;LOC_015; Suporte N2
+11888;Solicitação de equipamento - Computador;2;12/03/2025;user_106;LOC_001; Suporte N2
+11877;Solicitação de equipamento - Computador;2;12/03/2025;user_106;LOC_001; Suporte N2
+11392;Solicitação de equipamento - Computador;3;10/03/2025;user_107;LOC_001; Suporte N2
+10706;Solicitação de equipamento - Computador;2;06/03/2025;user_029;LOC_001; Suporte N2
+10696;Solicitação de equipamento - Computador;3;06/03/2025;user_029;LOC_001; Suporte N2
+10693;Solicitação de equipamento - Computador;1;06/03/2025;user_029;LOC_001; Suporte N2
+10689;Solicitação de equipamento - Computador;2;06/03/2025;user_029;LOC_001; Suporte N2
+10589;Estabilizador/No-break;3;28/02/2025;user_085;LOC_016; Estagiário
+10004;Solicitação de equipamento - Computador;1;26/02/2025;user_108;LOC_038; Suporte N2
+9625;Suporte à estação de trabalho;1;24/02/2025;user_024;LOC_007; Bancada
+9226;Solicitação de equipamento - Computador;1;21/02/2025;user_109;LOC_039; Suporte N2
+8852;Solicitação de equipamento - Periférico - Teclado;2;19/02/2025;user_110;LOC_040; Suporte N2
+8135;Suporte à estação de trabalho;2;14/02/2025;user_082;LOC_034; Suporte N2
+7287;Solicitação de equipamento - Periférico - Teclado;3;11/02/2025;user_111;LOC_001; Estagiário
+6741;Solicitação de equipamento - Periférico - Teclado;3;07/02/2025;user_112;LOC_001; Suporte N2
+6531;Solicitação de equipamento - Periférico - Teclado;1;06/02/2025;user_113;LOC_041; Suporte N2
+6530;Solicitação de equipamento - Periférico - Teclado;1;06/02/2025;user_113;LOC_041; Suporte N2
+6510;Solicitação de equipamento - Periférico - Teclado;1;06/02/2025;user_113;LOC_040; Estagiário
+6220;Solicitação de equipamento - Periférico - Mouse;3;04/02/2025;user_010;LOC_005; Estagiário
+6164;Solicitação de equipamento - Periférico - Mouse;2;04/02/2025;user_054;LOC_018; Estagiário
+4941;Solicitação de equipamento - Periférico - Mouse;1;29/01/2025;user_114;LOC_001; Suporte N2
+4905;Solicitação de equipamento - Periférico - Mouse;3;28/01/2025;user_115;LOC_001; Suporte N2
+4567;Solicitação de equipamento - Monitor;3;27/01/2025;user_096;LOC_037; Suporte N2
+4479;Impressora e serviços de impressão;1;27/01/2025;user_116;LOC_001; Suporte N2
+4416;Estabilizador/No-break;3;24/01/2025;user_117;LOC_042; Estagiário
+4107;Solicitação de equipamento - Periférico - Mouse;1;23/01/2025;user_010;LOC_005; Estagiário
+3925;Suporte à estação de trabalho;1;22/01/2025;user_016;LOC_001; Suporte N2
+3538;Solicitação de equipamento - Periférico - Mouse;2;20/01/2025;user_118;LOC_001; Estagiário
+2863;Solicitação de equipamento - Periférico - Mouse;1;15/01/2025;user_119;LOC_043; Suporte N2
+2733;Solicitação de equipamento - Periférico - Mouse;1;15/01/2025;user_113;LOC_001; Estagiário
+2727;Solicitação de equipamento - Periférico - Mouse;1;15/01/2025;user_096;LOC_037; Suporte N2
+1904;Solicitação de equipamento - Periférico - Mouse;2;09/01/2025;user_016;LOC_001; Estagiário
+1810;Solicitação de equipamento - Periférico - Mouse;3;09/01/2025;user_120;LOC_001; Suporte N2
+1469;Solicitação de equipamento - Periférico - Mouse;1;08/01/2025;user_121;LOC_001; Suporte N2
