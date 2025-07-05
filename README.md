@@ -13,7 +13,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
-> [support-tickets-analytics](https://github.com/dataPalacio/support-tickets-analytics.git)
+> Copie o link do projeto: https://github.com/dataPalacio/support-tickets-analytics.git
 
 ---
 
