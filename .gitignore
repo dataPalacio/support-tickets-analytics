@@ -178,4 +178,8 @@ anonymous/
 .vscode/
 pasta.py
 teste/
-processed/*
+docs/artigo/
+check_csv_consistency.py
+fix_csv_consistency.py
+teste.ipynb
+docs/power_bi/

@@ -1,5 +1,5 @@
 # Adicione aqui as dependencias do seu projeto
-pandas
+import pandas
 numpy
 os
 re
