@@ -1,224 +1,224 @@
-id;titulo;equipamento_qtd;data_abertura;requerente;localizacao;g_responsavel;status;data_fechamento;contato;feedback;equipamento
-30212;Suporte à estação de trabalho;0;2025-07-01;USER_001;LOC_001;Bancada;Atribuído;;Whatsapp;8;
-30210;Suporte à estação de trabalho;0;2025-07-01;USER_002;LOC_001;Suporte N2;Fechado;2025-07-03;Sistema;7;
-30167;Suporte à estação de trabalho;0;2025-07-01;USER_003;LOC_001;Suporte N2;Pendente;;Sistema;6;
-30159;Suporte à estação de trabalho;0;2025-07-01;USER_004;LOC_002;Bancada;Atribuído;;0800;9;
-30158;Suporte à estação de trabalho;0;2025-07-01;USER_005;LOC_001;Suporte N2;Fechado;2025-07-05;Whatsapp;9;
-30128;Solicitação de equipamento - Computador;3;2025-07-01;USER_006;LOC_001;Suporte N2;Estoque;2025-07-22;Sistema;6;Computador
-30127;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Atribuído;;Whatsapp;10;
-30123;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Pendente;;Sistema;9;
-30115;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Fechado;2025-07-04;Sistema;8;
-30078;Estabilizador/No-break;0;2025-07-01;USER_008;LOC_004;Suporte N2;Atribuído;;0800;6;
-30077;Solicitação de equipamento - Estabilizador/Nobreak;3;2025-07-01;USER_008;LOC_004;Suporte N2;Estoque;2025-07-25;Whatsapp;7;Estabilizador/Nobreak
-30071;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Bancada;Fechado;2025-07-03;Sistema;6;
-30060;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Suporte N2;Atribuído;;Whatsapp;7;
-30053;Solicitação de equipamento - Computador;2;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;2025-07-20;Sistema;9;Computador
-30022;Suporte em eventos;0;2025-06-30;USER_011;LOC_001;Eventos;Pendente;;Sistema;4;
-30006;Solicitação de equipamento - Computador;2;2025-06-30;USER_012;LOC_001;Suporte N2;Estoque;2025-07-18;Whatsapp;5;Computador
-29985;Usuário da rede institucional;0;2025-06-30;USER_013;LOC_001;Suporte N2;Atribuído;;0800;6;
-29970;Solicitação de equipamento - Computador;3;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;2025-07-15;Sistema;5;Computador
-29952;Rede, Intranet e Internet;0;2025-06-30;USER_014;LOC_001;Suporte N2;Fechado;2025-07-02;Whatsapp;10;
-29951;Rede, Intranet e Internet;0;2025-06-30;USER_015;LOC_001;Suporte N2;Atribuído;;Sistema;8;
-29945;Suporte à estação de trabalho;0;2025-06-30;USER_016;LOC_001;Suporte N2;Pendente;;Sistema;10;
-29944;Suporte à estação de trabalho;0;2025-06-30;USER_016;LOC_001;Bancada;Atribuído;;Whatsapp;10;
-29897;Solicitação de equipamento - Computador;2;2025-06-30;USER_017;LOC_001;Suporte N2;Estoque;2025-07-25;Sistema;10;Computador
-29889;Backup;0;2025-06-30;USER_018;LOC_001;Suporte N2;Fechado;2025-07-01;Whatsapp;5;
-29835;Solicitação de equipamento - Computador;1;2025-06-30;USER_019;LOC_001;Suporte N2;Estoque;2025-07-22;0800;7;Computador
-29822;Suporte à estação de trabalho;0;2025-06-30;USER_017;LOC_001;Bancada;Atribuído;;Sistema;6;
-29793;Suporte à estação de trabalho;0;2025-06-30;USER_009;LOC_005;Bancada;Fechado;2025-07-02;Whatsapp;8;
-29787;Solicitação de equipamento - Computador;1;2025-06-30;USER_009;LOC_005;Suporte N2;Estoque;2025-07-20;Sistema;8;Computador
-29774;Solicitação de equipamento - Computador;2;2025-06-29;USER_020;LOC_001;Suporte N2;Estoque;2025-07-19;Whatsapp;7;Computador
-29718;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Atribuído;;0800;9;
-29572;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Pendente;;Sistema;8;
-29559;Suporte à estação de trabalho;0;2025-06-27;USER_021;LOC_001;Bancada;Atribuído;;Whatsapp;9;
-29551;Suporte à estação de trabalho;0;2025-06-27;USER_022;LOC_001;Suporte N2;Fechado;2025-06-29;Sistema;9;
-29479;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-15;Whatsapp;10;Computador
-29478;Suporte em eventos;0;2025-06-26;USER_011;LOC_001;Eventos;Atribuído;;800;7;
-29413;Certificado Digital;0;2025-06-26;USER_024;LOC_007;Suporte N2;Fechado;2025-06-27;Sistema;6;
-29407;Solicitação de equipamento - Computador;3;2025-06-26;USER_025;LOC_008;Suporte N2;Estoque;2025-07-20;Whatsapp;6;Computador
-29399;Solicitação de equipamento - Computador;1;2025-06-26;USER_026;LOC_005;Suporte N2;Estoque;2025-07-25;Sistema;5;Computador
-29379;Impressora e serviços de impressão;0;2025-06-26;USER_026;LOC_005;Suporte N2;Atribuído;;800;5;
-29360;Solicitação de equipamento - Computador;2;2025-06-26;USER_027;LOC_003;Suporte N2;Estoque;2025-07-18;Whatsapp;9;Computador
-29348;Suporte à estação de trabalho;0;2025-06-26;USER_028;LOC_001;Suporte N2;Fechado;2025-06-28;Sistema;7;
-29346;Impressora e serviços de impressão;0;2025-06-26;USER_029;LOC_001;Suporte N2;Atribuído;;Whatsapp;10;
-29343;Suporte à estação de trabalho;0;2025-06-26;USER_009;LOC_005;Suporte N2;Pendente;;Sistema;9;
-29265;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-15;Sistema;7;Computador
-29261;Solicitação de equipamento - Computador;2;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-22;Whatsapp;7;Computador
-29209;Suporte à estação de trabalho;0;2025-06-25;USER_030;LOC_001;Suporte N2;Atribuído;;800;8;
-29160;Suporte em eventos;0;2025-06-25;USER_011;LOC_001;Eventos;Fechado;2025-06-27;Sistema;8;
-29129;Suporte à estação de trabalho;0;2025-06-25;USER_031;LOC_003;Equipe Regional;Atribuído;;Whatsapp;9;
-29120;Suporte à estação de trabalho;0;2025-06-25;USER_032;LOC_001;Suporte N2;Pendente;;Sistema;7;
-29093;Impressora e serviços de impressão;0;2025-06-25;USER_033;LOC_001;Suporte N2;Atribuído;;Sistema;9;
-28952;Solicitação de equipamento - Computador;1;2025-06-24;USER_034;LOC_009;Suporte N2;Estoque;2025-07-19;Whatsapp;8;Computador
-28907;E-mail Institucional;0;2025-06-23;USER_035;LOC_005;Suporte N2;Fechado;2025-06-25;Sistema;10;
-28805;Solicitação de equipamento - Computador;2;2025-06-23;USER_023;LOC_006;Suporte N2;Estoque;2025-07-10;Whatsapp;9;Computador
-28804;Suporte à estação de trabalho;0;2025-06-23;USER_032;LOC_001;Bancada;Atribuído;;800;6;
-28797;Certificado Digital;0;2025-06-23;USER_036;LOC_003;Suporte N2;Fechado;2025-06-24;Sistema;7;
-28785;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Bancada;Atribuído;;Whatsapp;5;
-28756;Solicitação de equipamento - Computador;3;2025-06-23;USER_037;LOC_010;Suporte N2;Estoque;2025-07-15;Sistema;9;Computador
-28745;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Bancada;Pendente;;Sistema;8;
-28740;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Suporte N2;Atribuído;;Whatsapp;7;
-28669;Suporte à estação de trabalho;0;2025-06-23;USER_038;LOC_005;Suporte N2;Fechado;2025-06-25;Sistema;8;
-28662;Suporte à estação de trabalho;0;2025-06-23;USER_039;LOC_011;Suporte N2;Atribuído;;Whatsapp;8;
-28642;Suporte à estação de trabalho;0;2025-06-23;USER_040;LOC_001;Suporte N2;Pendente;;Sistema;9;
-28592;Solicitação de equipamento - Computador;1;2025-06-18;USER_041;LOC_009;Suporte N2;Estoque;2025-07-10;Sistema;6;Computador
-28577;Suporte à estação de trabalho;0;2025-06-18;USER_042;LOC_005;Suporte N2;Atribuído;;Whatsapp;7;
-28569;Solicitação de equipamento - Computador;1;2025-06-18;USER_037;LOC_010;Suporte N2;Estoque;2025-07-15;800;5;Computador
-28364;Solicitação de equipamento - Computador;3;2025-06-18;USER_043;LOC_001;Suporte N2;Estoque;2025-06-30;Whatsapp;8;Computador
-28232;Solicitação de equipamento - Computador;3;2025-06-17;USER_044;LOC_012;Suporte N2;Estoque;2025-07-10;Sistema;7;Computador
-28089;Solicitação de equipamento - Computador;1;2025-06-17;USER_045;LOC_013;Suporte N2;Estoque;2025-07-25;Whatsapp;9;Computador
-28074;Solicitação de equipamento - Computador;2;2025-06-17;USER_046;LOC_014;Suporte N2;Estoque;2025-07-15;Sistema;9;Computador
-27824;Impressora e serviços de impressão;0;2025-06-13;USER_047;LOC_001;Suporte N2;Atribuído;;Whatsapp;5;
-27755;Solicitação de equipamento - Computador;1;2025-06-13;USER_048;LOC_001;Suporte N2;Estoque;2025-06-30;Sistema;5;Computador
-27754;Solicitação de equipamento - Computador;1;2025-06-13;USER_048;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;7;Computador
-27586;Suporte à estação de trabalho;0;2025-06-12;USER_017;LOC_001;Suporte N2;Fechado;2025-06-14;Sistema;6;
-27524;Solicitação de equipamento - Computador;2;2025-06-12;USER_049;LOC_015;Suporte N2;Estoque;2025-06-27;Whatsapp;10;Computador
-27441;Solicitação de equipamento - Computador;1;2025-06-12;USER_050;LOC_016;Suporte N2;Estoque;2025-07-15;Sistema;10;Computador
-27224;Suporte à estação de trabalho;0;2025-06-11;USER_051;LOC_009;Suporte N2;Atribuído;;Whatsapp;9;
-27198;Suporte à estação de trabalho;0;2025-06-11;USER_052;LOC_001;Suporte N2;Pendente;;Sistema;7;
-27038;Solicitação de equipamento - Computador;3;2025-06-10;USER_053;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;9;Computador
-26962;Solicitação de equipamento - Computador;3;2025-06-10;USER_054;LOC_014;Suporte N2;Estoque;2025-07-15;Whatsapp;10;Computador
-26958;Suporte à estação de trabalho;0;2025-06-10;USER_010;LOC_005;Suporte N2;Atribuído;;800;7;
-26718;Solicitação de equipamento - Computador;2;2025-06-09;USER_055;LOC_013;Suporte N2;Estoque;2025-06-30;Sistema;8;Computador
-26627;Impressora e serviços de impressão;0;2025-06-09;USER_029;LOC_001;Suporte N2;Fechado;2025-06-11;Whatsapp;7;
-26484;Solicitação de equipamento - Computador;2;2025-06-06;USER_056;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;5;Computador
-26451;Solicitação de equipamento - Computador;2;2025-06-06;USER_054;LOC_003;Suporte N2;Estoque;2025-07-15;Whatsapp;10;Computador
-26450;Solicitação de equipamento - Computador;3;2025-06-06;USER_054;LOC_008;Suporte N2;Estoque;2025-06-20;Sistema;10;Computador
-26376;Impressora e serviços de impressão;0;2025-06-06;USER_056;LOC_001;Suporte N2;Atribuído;;Whatsapp;7;
-26302;Estabilizador/No-break;0;2025-06-05;USER_057;LOC_017;Suporte N2;Fechado;2025-06-07;Sistema;8;
-26284;Impressora e serviços de impressão;0;2025-06-05;USER_051;LOC_009;Apoio a Estagiário;Atribuído;;800;6;
-26281;Solicitação de equipamento - Computador;3;2025-06-05;USER_058;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;10;Computador
-26271;Solicitação de equipamento - Computador;2;2025-06-05;USER_059;LOC_001;Suporte N2;Estoque;2025-07-15;Sistema;5;Computador
-26150;Solicitação de equipamento - Computador;3;2025-06-05;USER_060;LOC_001;Suporte N2;Estoque;2025-06-20;Whatsapp;8;Computador
-26065;Suporte à estação de trabalho;0;2025-06-04;USER_061;LOC_001;Suporte N2;Atribuído;;Sistema;9;
-25878;Impressora e serviços de impressão;0;2025-06-04;USER_017;LOC_001;Suporte N2;Fechado;2025-06-06;Whatsapp;9;
-25809;Solicitação de equipamento - Computador;1;2025-06-04;USER_062;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;8;Computador
-25650;Solicitação de equipamento - Computador;2;2025-06-03;USER_054;LOC_018;Suporte N2;Estoque;2025-06-15;Whatsapp;7;Computador
-25331;Suporte à estação de trabalho;0;2025-06-02;USER_024;LOC_007;Suporte N2;Atribuído;;800;6;
-25117;Solicitação de equipamento - Computador;2;2025-05-30;USER_063;LOC_019;Suporte N2;Estoque;2025-06-15;Sistema;7;Computador
-25086;Impressora e serviços de impressão;0;2025-05-30;USER_063;LOC_019;Suporte N2;Fechado;2025-06-01;Whatsapp;10;
-25005;Solicitação de equipamento - Computador;2;2025-05-29;USER_030;LOC_001;Suporte N2;Estoque;2025-06-15;Sistema;5;Computador
-25000;Solicitação de equipamento - Computador;1;2025-05-29;USER_064;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;8;Computador
-24867;Solicitação de equipamento - Computador;2;2025-05-29;USER_065;LOC_020;Suporte N2;Estoque;2025-06-15;Sistema;8;Computador
-24854;Impressora e serviços de impressão;0;2025-05-29;USER_066;LOC_001;Suporte N2;Atribuído;;Whatsapp;5;
-24712;Suporte à estação de trabalho;0;2025-05-28;USER_067;LOC_021;Equipe Regional;Fechado;2025-05-30;Sistema;8;
-24709;Solicitação de equipamento - Computador;2;2025-05-28;USER_067;LOC_021;Suporte N2;Estoque;2025-06-15;Whatsapp;8;Computador
-24640;Estabilizador/No-break;0;2025-05-28;USER_068;LOC_022;Suporte N2;Atribuído;;800;10;
-24592;Solicitação de equipamento - Computador;3;2025-05-28;USER_069;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;10;Computador
-24507;Suporte à estação de trabalho;0;2025-05-27;USER_070;LOC_023;Bancada;Atribuído;;Whatsapp;7;
-24494;Solicitação de equipamento - Computador;2;2025-05-27;USER_071;LOC_003;Suporte N2;Estoque;2025-06-15;Sistema;5;Computador
-24479;Solicitação de equipamento - Computador;3;2025-05-27;USER_072;LOC_023;Suporte N2;Estoque;2025-06-25;Whatsapp;10;Computador
-24275;Solicitação de equipamento - Computador;1;2025-05-27;USER_029;LOC_001;Suporte N2;Estoque;2025-06-15;Sistema;6;Computador
-24029;Suporte à estação de trabalho;0;2025-05-26;USER_073;LOC_024;Suporte N2;Fechado;2025-05-28;Whatsapp;7;
-23780;Solicitação de equipamento - Computador;1;2025-05-23;USER_074;LOC_025;Suporte N2;Estoque;2025-06-15;Sistema;7;Computador
-23542;Solicitação de equipamento - Computador;3;2025-05-22;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Whatsapp;5;Computador
-23463;Impressora e serviços de impressão;0;2025-05-21;USER_057;LOC_026;Suporte N2;Atribuído;;Sistema;5;
-23436;Solicitação de equipamento - Computador;3;2025-05-21;USER_055;LOC_027;Suporte N2;Estoque;2025-06-15;Whatsapp;8;Computador
-23434;Solicitação de equipamento - Computador;2;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;7;Computador
-23432;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-15;Whatsapp;10;Computador
-23420;Suporte à estação de trabalho;0;2025-05-21;USER_075;LOC_028;Suporte N2;Atribuído;;800;5;
-23418;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;9;Computador
-23416;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-15;Whatsapp;7;Computador
-23400;Solicitação de equipamento - Computador;1;2025-05-21;USER_044;LOC_012;Bancada;Estoque;2025-06-25;Sistema;6;Computador
-23308;Solicitação de equipamento - Computador;3;2025-05-21;USER_076;LOC_029;Suporte N2;Estoque;2025-06-15;Whatsapp;9;Computador
-23305;Solicitação de equipamento - Computador;3;2025-05-21;USER_077;LOC_030;Suporte N2;Estoque;2025-06-25;Sistema;7;Computador
-23288;Solicitação de equipamento - Computador;3;2025-05-21;USER_077;LOC_003;Suporte N2;Estoque;2025-06-15;Whatsapp;5;Computador
-23269;Impressora e serviços de impressão;0;2025-05-21;USER_055;LOC_025;Suporte N2;Atribuído;;Whatsapp;5;
-23260;Solicitação de equipamento - Computador;1;2025-05-21;USER_055;LOC_031;Suporte N2;Estoque;2025-06-25;Sistema;5;Computador
-23257;Suporte à estação de trabalho;0;2025-05-21;USER_004;LOC_002;Bancada;Atribuído;;800;6;
-23199;Solicitação de equipamento - Computador;2;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;2025-06-15;Whatsapp;6;Computador
-23197;Solicitação de equipamento - Computador;1;2025-05-20;USER_078;LOC_007;Suporte N2;Estoque;2025-06-25;Sistema;6;Computador
-23194;Solicitação de equipamento - Computador;3;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;2025-06-15;Whatsapp;10;Computador
-22773;Solicitação de equipamento - Computador;3;2025-05-19;USER_037;LOC_010;Suporte N2;Estoque;2025-06-25;Sistema;10;Computador
-22750;Solicitação de equipamento - Computador;1;2025-05-19;USER_079;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;6;Computador
-22682;Solicitação de equipamento - Periférico - Webcam;2;2025-05-18;USER_010;LOC_005;Suporte N2;Atribuído;;Sistema;9;Periférico - Webcam
-22637;Solicitação de equipamento - Periférico - Webcam;3;2025-05-16;USER_073;LOC_024;Suporte N2;Fechado;2025-05-18;Whatsapp;8;Periférico - Webcam
-22377;Impressora e serviços de impressão;0;2025-05-15;USER_080;LOC_001;Suporte N2;Atribuído;;800;9;
-22259;Solicitação de equipamento - Periférico - Webcam;1;2025-05-15;USER_081;LOC_033;Suporte N2;Estoque;2025-05-25;Sistema;9;Periférico - Webcam
-22252;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_082;LOC_034;Suporte N2;Estoque;2025-06-15;Whatsapp;6;Periférico - Webcam
-22250;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_083;LOC_030;Suporte N2;Estoque;2025-05-25;Sistema;5;Periférico - Webcam
-22235;Solicitação de equipamento - Periférico - Webcam;2;2025-05-15;USER_084;LOC_035;Suporte N2;Estoque;2025-06-15;Whatsapp;10;Periférico - Webcam
-22197;Solicitação de equipamento - Periférico - Webcam;2;2025-05-15;USER_085;LOC_016;Suporte N2;Estoque;2025-05-25;Sistema;8;Periférico - Webcam
-22192;Solicitação de equipamento - Computador;3;2025-05-15;USER_045;LOC_013;Suporte N2;Estoque;2025-06-15;Whatsapp;10;Computador
-21752;Solicitação de equipamento - Computador;3;2025-05-13;USER_086;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;5;Computador
-21610;Solicitação de equipamento - Computador;3;2025-05-13;USER_087;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;8;Computador
-21473;Solicitação de equipamento - Computador;3;2025-05-12;USER_001;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;7;Computador
-21368;Estabilizador/No-break;0;2025-05-12;USER_088;LOC_001;Suporte N2;Atribuído;;Whatsapp;8;
-21316;Solicitação de equipamento - Computador;2;2025-05-09;USER_089;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;10;Computador
-21177;Solicitação de equipamento - Computador;3;2025-05-09;USER_090;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;5;Computador
-21172;Solicitação de equipamento - Computador;2;2025-05-09;USER_090;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;5;Computador
-21154;Solicitação de equipamento - Computador;3;2025-05-09;USER_091;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;5;Computador
-21011;Solicitação de equipamento - Computador;1;2025-05-08;USER_092;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;5;Computador
-20957;Solicitação de equipamento - Computador;3;2025-05-08;USER_079;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;10;Computador
-20799;Solicitação de equipamento - Computador;3;2025-05-07;USER_093;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;5;Computador
-19975;Suporte à estação de trabalho;0;2025-05-02;USER_017;LOC_001;Suporte N2;Atribuído;;800;7;
-19833;Solicitação de equipamento - Computador;2;2025-04-30;USER_094;LOC_001;Suporte N2;Estoque;2025-05-15;Sistema;5;Computador
-19562;Suporte à estação de trabalho;0;2025-04-29;USER_074;LOC_025;Suporte N2;Fechado;2025-05-01;Whatsapp;9;
-19506;Solicitação de equipamento - Computador;1;2025-04-29;USER_095;LOC_011;Suporte N2;Estoque;2025-05-15;Sistema;6;Computador
-19343;Estabilizador/No-break;0;2025-04-28;USER_054;LOC_036;Suporte N2;Atribuído;;Whatsapp;6;
-19340;Solicitação de equipamento - Computador;1;2025-04-28;USER_054;LOC_036;Suporte N2;Estoque;2025-05-15;Sistema;8;Computador
-18991;Suporte à estação de trabalho;0;2025-04-25;USER_082;LOC_034;Suporte N2;Atribuído;;800;6;
-18824;Solicitação de equipamento - Computador;1;2025-04-24;USER_096;LOC_037;Suporte N2;Estoque;2025-05-15;Whatsapp;6;Computador
-18743;Solicitação de equipamento - Computador;1;2025-04-24;USER_097;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;6;Computador
-18552;Solicitação de equipamento - Computador;2;2025-04-23;USER_098;LOC_001;Suporte N2;Estoque;2025-05-15;Whatsapp;10;Computador
-18335;Solicitação de equipamento - Computador;1;2025-04-22;USER_028;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;5;Computador
-18015;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Atribuído;;Whatsapp;5;Periférico - Fone
-18014;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Fechado;2025-04-17;Sistema;8;Periférico - Fone
-18004;Solicitação de equipamento - Periférico - Fone;1;2025-04-15;USER_099;LOC_001;Suporte N2;Atribuído;;800;7;Periférico - Fone
-17578;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;7;Periférico - Fone
-17576;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;10;Periférico - Fone
-17474;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;10;Periférico - Fone
-17471;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;8;Periférico - Fone
-17465;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_017;LOC_001;Suporte N2;Estoque;2025-04-25;Sistema;6;Periférico - Fone
-17463;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;5;Periférico - Fone
-17427;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;8;Periférico - Fone
-17414;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;9;Periférico - Fone
-17136;Solicitação de equipamento - Computador;2;2025-04-09;USER_017;LOC_001;Suporte N2;Estoque;2025-04-25;Sistema;6;Computador
-16986;Suporte à estação de trabalho;0;2025-04-09;USER_100;LOC_001;Bancada;Atribuído;;Whatsapp;8;
-16364;Solicitação de equipamento - Computador;3;2025-04-04;USER_091;LOC_001;Suporte N2;Estoque;2025-04-15;Sistema;5;Computador
-15535;Solicitação de equipamento - Computador;2;2025-04-01;USER_101;LOC_001;Suporte N2;Estoque;2025-04-15;Whatsapp;7;Computador
-15385;Solicitação de equipamento - Computador;1;2025-03-31;USER_102;LOC_005;Suporte N2;Estoque;2025-04-15;Sistema;5;Computador
-15221;Solicitação de equipamento - Computador;1;2025-03-31;USER_063;LOC_019;Suporte N2;Estoque;2025-04-25;Whatsapp;6;Computador
-15220;Solicitação de equipamento - Computador;2;2025-03-31;USER_063;LOC_019;Suporte N2;Estoque;2025-04-15;Sistema;5;Computador
-14991;Solicitação de equipamento - Computador;2;2025-03-28;USER_103;LOC_001;Suporte N2;Estoque;2025-04-15;Whatsapp;7;Computador
-14621;Solicitação de equipamento - Computador;3;2025-03-26;USER_086;LOC_001;Suporte N2;Estoque;2025-04-15;Sistema;9;Computador
-13484;Solicitação de equipamento - Computador;3;2025-03-20;USER_104;LOC_036;Suporte N2;Estoque;2025-04-15;Whatsapp;6;Computador
-13184;Solicitação de equipamento - Computador;3;2025-03-19;USER_105;LOC_001;Suporte N2;Estoque;2025-03-25;Sistema;5;Computador
-12891;Impressora e serviços de impressão;0;2025-03-18;USER_010;LOC_005;Suporte N2;Atribuído;;Whatsapp;6;
-12839;Solicitação de equipamento - Computador;3;2025-03-18;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Sistema;5;Computador
-12520;Impressora e serviços de impressão;0;2025-03-14;USER_010;LOC_005;Suporte N2;Fechado;2025-03-16;Whatsapp;10;
-12325;Solicitação de equipamento - Computador;1;2025-03-13;USER_049;LOC_015;Suporte N2;Estoque;2025-03-25;Sistema;7;Computador
-11888;Solicitação de equipamento - Computador;2;2025-03-12;USER_106;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;5;Computador
-11877;Solicitação de equipamento - Computador;2;2025-03-12;USER_106;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;7;Computador
-11392;Solicitação de equipamento - Computador;3;2025-03-10;USER_107;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;5;Computador
-10706;Solicitação de equipamento - Computador;2;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;6;Computador
-10696;Solicitação de equipamento - Computador;3;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;9;Computador
-10693;Solicitação de equipamento - Computador;1;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;5;Computador
-10689;Solicitação de equipamento - Computador;2;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;7;Computador
-10589;Estabilizador/No-break;0;2025-02-28;USER_085;LOC_016;Estagiário;Atribuído;;800;8;
-10004;Solicitação de equipamento - Computador;1;2025-02-26;USER_108;LOC_038;Suporte N2;Estoque;2025-03-15;Sistema;10;Computador
-9625;Suporte à estação de trabalho;0;2025-02-24;USER_024;LOC_007;Bancada;Fechado;2025-02-26;Whatsapp;7;
-9226;Solicitação de equipamento - Computador;1;2025-02-21;USER_109;LOC_039;Suporte N2;Estoque;2025-03-15;Sistema;9;Computador
-8852;Solicitação de equipamento - Periférico - Teclado;2;2025-02-19;USER_110;LOC_040;Suporte N2;Atribuído;;Whatsapp;5;Periférico - Teclado
-8135;Suporte à estação de trabalho;0;2025-02-14;USER_082;LOC_034;Suporte N2;Fechado;2025-02-16;Sistema;8;
-7287;Solicitação de equipamento - Periférico - Teclado;3;2025-02-11;USER_111;LOC_001;Estagiário;Estoque;2025-02-25;Whatsapp;8;Periférico - Teclado
-6741;Solicitação de equipamento - Periférico - Teclado;3;2025-02-07;USER_112;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;9;Periférico - Teclado
-6531;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_041;Suporte N2;Estoque;2025-02-25;Whatsapp;9;Periférico - Teclado
-6530;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_041;Suporte N2;Estoque;2025-02-15;Sistema;10;Periférico - Teclado
-6510;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_040;Estagiário;Estoque;2025-02-25;Whatsapp;8;Periférico - Teclado
-6220;Solicitação de equipamento - Periférico - Mouse;3;2025-02-04;USER_010;LOC_005;Estagiário;Estoque;2025-02-15;Sistema;8;Periférico - Mouse
-6164;Solicitação de equipamento - Periférico - Mouse;2;2025-02-04;USER_054;LOC_018;Estagiário;Estoque;2025-02-25;Whatsapp;5;Periférico - Mouse
-4941;Solicitação de equipamento - Periférico - Mouse;1;2025-01-29;USER_114;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;7;Periférico - Mouse
-4905;Solicitação de equipamento - Periférico - Mouse;3;2025-01-28;USER_115;LOC_001;Suporte N2;Estoque;2025-02-25;Whatsapp;8;Periférico - Mouse
-4567;Solicitação de equipamento - Monitor;3;2025-01-27;USER_096;LOC_037;Suporte N2;Estoque;2025-02-15;Sistema;5;Monitor
-4479;Impressora e serviços de impressão;0;2025-01-27;USER_116;LOC_001;Suporte N2;Atribuído;;Whatsapp;5;
-4416;Estabilizador/No-break;0;2025-01-24;USER_117;LOC_042;Estagiário;Fechado;2025-01-26;Sistema;9;
-4107;Solicitação de equipamento - Periférico - Mouse;1;2025-01-23;USER_010;LOC_005;Estagiário;Estoque;2025-02-15;Whatsapp;10;Periférico - Mouse
-3925;Suporte à estação de trabalho;0;2025-01-22;USER_016;LOC_001;Suporte N2;Atribuído;;Sistema;7;
-3538;Solicitação de equipamento - Periférico - Mouse;2;2025-01-20;USER_118;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;8;Periférico - Mouse
-2863;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_119;LOC_043;Suporte N2;Estoque;2025-02-15;Sistema;6;Periférico - Mouse
-2733;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_113;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;7;Periférico - Mouse
-2727;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_096;LOC_037;Suporte N2;Estoque;2025-02-15;Sistema;9;Periférico - Mouse
-1904;Solicitação de equipamento - Periférico - Mouse;2;2025-01-09;USER_016;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;6;Periférico - Mouse
-1810;Solicitação de equipamento - Periférico - Mouse;3;2025-01-09;USER_120;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;9;Periférico - Mouse
-1469;Solicitação de equipamento - Periférico - Mouse;1;2025-01-08;USER_121;LOC_001;Suporte N2;Estoque;2025-01-25;Whatsapp;8;Periférico - Mouse
+id;titulo;equipamento_qtd;data_abertura;requerente;localizacao;g_responsavel;status;data_fechamento;contato;equipamento
+30212;Suporte à estação de trabalho;0;2025-07-01;USER_001;LOC_001;Bancada;Atribuído;;Whatsapp;
+30210;Suporte à estação de trabalho;0;2025-07-01;USER_002;LOC_001;Suporte N2;Fechado;2025-07-03;Sistema;
+30167;Suporte à estação de trabalho;0;2025-07-01;USER_003;LOC_001;Suporte N2;Pendente;;Sistema;
+30159;Suporte à estação de trabalho;0;2025-07-01;USER_004;LOC_002;Bancada;Atribuído;;0800;
+30158;Suporte à estação de trabalho;0;2025-07-01;USER_005;LOC_001;Suporte N2;Fechado;2025-07-05;Whatsapp;
+30128;Solicitação de equipamento - Computador;3;2025-07-01;USER_006;LOC_001;Suporte N2;Estoque;2025-07-22;Sistema;Computador
+30127;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Atribuído;;Whatsapp;
+30123;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Pendente;;Sistema;
+30115;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Fechado;2025-07-04;Sistema;
+30078;Estabilizador/No-break;0;2025-07-01;USER_008;LOC_004;Suporte N2;Atribuído;;0800;
+30077;Solicitação de equipamento - Estabilizador/Nobreak;3;2025-07-01;USER_008;LOC_004;Suporte N2;Estoque;2025-07-25;Whatsapp;Estabilizador/Nobreak
+30071;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Bancada;Fechado;2025-07-03;Sistema;
+30060;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Suporte N2;Atribuído;;Whatsapp;
+30053;Solicitação de equipamento - Computador;2;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;2025-07-20;Sistema;Computador
+30022;Suporte em eventos;0;2025-06-30;USER_011;LOC_001;Eventos;Pendente;;Sistema;
+30006;Solicitação de equipamento - Computador;2;2025-06-30;USER_012;LOC_001;Suporte N2;Estoque;2025-07-18;Whatsapp;Computador
+29985;Usuário da rede institucional;0;2025-06-30;USER_013;LOC_001;Suporte N2;Atribuído;;0800;
+29970;Solicitação de equipamento - Computador;3;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+29952;Rede, Intranet e Internet;0;2025-06-30;USER_014;LOC_001;Suporte N2;Fechado;2025-07-02;Whatsapp;
+29951;Rede, Intranet e Internet;0;2025-06-30;USER_015;LOC_001;Suporte N2;Atribuído;;Sistema;
+29945;Suporte à estação de trabalho;0;2025-06-30;USER_016;LOC_001;Suporte N2;Pendente;;Sistema;
+29944;Suporte à estação de trabalho;0;2025-06-30;USER_016;LOC_001;Bancada;Atribuído;;Whatsapp;
+29897;Solicitação de equipamento - Computador;2;2025-06-30;USER_017;LOC_001;Suporte N2;Estoque;2025-07-25;Sistema;Computador
+29889;Backup;0;2025-06-30;USER_018;LOC_001;Suporte N2;Fechado;2025-07-01;Whatsapp;
+29835;Solicitação de equipamento - Computador;1;2025-06-30;USER_019;LOC_001;Suporte N2;Estoque;2025-07-22;0800;Computador
+29822;Suporte à estação de trabalho;0;2025-06-30;USER_017;LOC_001;Bancada;Atribuído;;Sistema;
+29793;Suporte à estação de trabalho;0;2025-06-30;USER_009;LOC_005;Bancada;Fechado;2025-07-02;Whatsapp;
+29787;Solicitação de equipamento - Computador;1;2025-06-30;USER_009;LOC_005;Suporte N2;Estoque;2025-07-20;Sistema;Computador
+29774;Solicitação de equipamento - Computador;2;2025-06-29;USER_020;LOC_001;Suporte N2;Estoque;2025-07-19;Whatsapp;Computador
+29718;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Atribuído;;0800;
+29572;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Pendente;;Sistema;
+29559;Suporte à estação de trabalho;0;2025-06-27;USER_021;LOC_001;Bancada;Atribuído;;Whatsapp;
+29551;Suporte à estação de trabalho;0;2025-06-27;USER_022;LOC_001;Suporte N2;Fechado;2025-06-29;Sistema;
+29479;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-15;Whatsapp;Computador
+29478;Suporte em eventos;0;2025-06-26;USER_011;LOC_001;Eventos;Atribuído;;800;
+29413;Certificado Digital;0;2025-06-26;USER_024;LOC_007;Suporte N2;Fechado;2025-06-27;Sistema;
+29407;Solicitação de equipamento - Computador;3;2025-06-26;USER_025;LOC_008;Suporte N2;Estoque;2025-07-20;Whatsapp;Computador
+29399;Solicitação de equipamento - Computador;1;2025-06-26;USER_026;LOC_005;Suporte N2;Estoque;2025-07-25;Sistema;Computador
+29379;Impressora e serviços de impressão;0;2025-06-26;USER_026;LOC_005;Suporte N2;Atribuído;;800;
+29360;Solicitação de equipamento - Computador;2;2025-06-26;USER_027;LOC_003;Suporte N2;Estoque;2025-07-18;Whatsapp;Computador
+29348;Suporte à estação de trabalho;0;2025-06-26;USER_028;LOC_001;Suporte N2;Fechado;2025-06-28;Sistema;
+29346;Impressora e serviços de impressão;0;2025-06-26;USER_029;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+29343;Suporte à estação de trabalho;0;2025-06-26;USER_009;LOC_005;Suporte N2;Pendente;;Sistema;
+29265;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+29261;Solicitação de equipamento - Computador;2;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;2025-07-22;Whatsapp;Computador
+29209;Suporte à estação de trabalho;0;2025-06-25;USER_030;LOC_001;Suporte N2;Atribuído;;800;
+29160;Suporte em eventos;0;2025-06-25;USER_011;LOC_001;Eventos;Fechado;2025-06-27;Sistema;
+29129;Suporte à estação de trabalho;0;2025-06-25;USER_031;LOC_003;Equipe Regional;Atribuído;;Whatsapp;
+29120;Suporte à estação de trabalho;0;2025-06-25;USER_032;LOC_001;Suporte N2;Pendente;;Sistema;
+29093;Impressora e serviços de impressão;0;2025-06-25;USER_033;LOC_001;Suporte N2;Atribuído;;Sistema;
+28952;Solicitação de equipamento - Computador;1;2025-06-24;USER_034;LOC_009;Suporte N2;Estoque;2025-07-19;Whatsapp;Computador
+28907;E-mail Institucional;0;2025-06-23;USER_035;LOC_005;Suporte N2;Fechado;2025-06-25;Sistema;
+28805;Solicitação de equipamento - Computador;2;2025-06-23;USER_023;LOC_006;Suporte N2;Estoque;2025-07-10;Whatsapp;Computador
+28804;Suporte à estação de trabalho;0;2025-06-23;USER_032;LOC_001;Bancada;Atribuído;;800;
+28797;Certificado Digital;0;2025-06-23;USER_036;LOC_003;Suporte N2;Fechado;2025-06-24;Sistema;
+28785;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Bancada;Atribuído;;Whatsapp;
+28756;Solicitação de equipamento - Computador;3;2025-06-23;USER_037;LOC_010;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+28745;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Bancada;Pendente;;Sistema;
+28740;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Suporte N2;Atribuído;;Whatsapp;
+28669;Suporte à estação de trabalho;0;2025-06-23;USER_038;LOC_005;Suporte N2;Fechado;2025-06-25;Sistema;
+28662;Suporte à estação de trabalho;0;2025-06-23;USER_039;LOC_011;Suporte N2;Atribuído;;Whatsapp;
+28642;Suporte à estação de trabalho;0;2025-06-23;USER_040;LOC_001;Suporte N2;Pendente;;Sistema;
+28592;Solicitação de equipamento - Computador;1;2025-06-18;USER_041;LOC_009;Suporte N2;Estoque;2025-07-10;Sistema;Computador
+28577;Suporte à estação de trabalho;0;2025-06-18;USER_042;LOC_005;Suporte N2;Atribuído;;Whatsapp;
+28569;Solicitação de equipamento - Computador;1;2025-06-18;USER_037;LOC_010;Suporte N2;Estoque;2025-07-15;800;Computador
+28364;Solicitação de equipamento - Computador;3;2025-06-18;USER_043;LOC_001;Suporte N2;Estoque;2025-06-30;Whatsapp;Computador
+28232;Solicitação de equipamento - Computador;3;2025-06-17;USER_044;LOC_012;Suporte N2;Estoque;2025-07-10;Sistema;Computador
+28089;Solicitação de equipamento - Computador;1;2025-06-17;USER_045;LOC_013;Suporte N2;Estoque;2025-07-25;Whatsapp;Computador
+28074;Solicitação de equipamento - Computador;2;2025-06-17;USER_046;LOC_014;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+27824;Impressora e serviços de impressão;0;2025-06-13;USER_047;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+27755;Solicitação de equipamento - Computador;1;2025-06-13;USER_048;LOC_001;Suporte N2;Estoque;2025-06-30;Sistema;Computador
+27754;Solicitação de equipamento - Computador;1;2025-06-13;USER_048;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;Computador
+27586;Suporte à estação de trabalho;0;2025-06-12;USER_017;LOC_001;Suporte N2;Fechado;2025-06-14;Sistema;
+27524;Solicitação de equipamento - Computador;2;2025-06-12;USER_049;LOC_015;Suporte N2;Estoque;2025-06-27;Whatsapp;Computador
+27441;Solicitação de equipamento - Computador;1;2025-06-12;USER_050;LOC_016;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+27224;Suporte à estação de trabalho;0;2025-06-11;USER_051;LOC_009;Suporte N2;Atribuído;;Whatsapp;
+27198;Suporte à estação de trabalho;0;2025-06-11;USER_052;LOC_001;Suporte N2;Pendente;;Sistema;
+27038;Solicitação de equipamento - Computador;3;2025-06-10;USER_053;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+26962;Solicitação de equipamento - Computador;3;2025-06-10;USER_054;LOC_014;Suporte N2;Estoque;2025-07-15;Whatsapp;Computador
+26958;Suporte à estação de trabalho;0;2025-06-10;USER_010;LOC_005;Suporte N2;Atribuído;;800;
+26718;Solicitação de equipamento - Computador;2;2025-06-09;USER_055;LOC_013;Suporte N2;Estoque;2025-06-30;Sistema;Computador
+26627;Impressora e serviços de impressão;0;2025-06-09;USER_029;LOC_001;Suporte N2;Fechado;2025-06-11;Whatsapp;
+26484;Solicitação de equipamento - Computador;2;2025-06-06;USER_056;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+26451;Solicitação de equipamento - Computador;2;2025-06-06;USER_054;LOC_003;Suporte N2;Estoque;2025-07-15;Whatsapp;Computador
+26450;Solicitação de equipamento - Computador;3;2025-06-06;USER_054;LOC_008;Suporte N2;Estoque;2025-06-20;Sistema;Computador
+26376;Impressora e serviços de impressão;0;2025-06-06;USER_056;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+26302;Estabilizador/No-break;0;2025-06-05;USER_057;LOC_017;Suporte N2;Fechado;2025-06-07;Sistema;
+26284;Impressora e serviços de impressão;0;2025-06-05;USER_051;LOC_009;Apoio a Estagiário;Atribuído;;800;
+26281;Solicitação de equipamento - Computador;3;2025-06-05;USER_058;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;Computador
+26271;Solicitação de equipamento - Computador;2;2025-06-05;USER_059;LOC_001;Suporte N2;Estoque;2025-07-15;Sistema;Computador
+26150;Solicitação de equipamento - Computador;3;2025-06-05;USER_060;LOC_001;Suporte N2;Estoque;2025-06-20;Whatsapp;Computador
+26065;Suporte à estação de trabalho;0;2025-06-04;USER_061;LOC_001;Suporte N2;Atribuído;;Sistema;
+25878;Impressora e serviços de impressão;0;2025-06-04;USER_017;LOC_001;Suporte N2;Fechado;2025-06-06;Whatsapp;
+25809;Solicitação de equipamento - Computador;1;2025-06-04;USER_062;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+25650;Solicitação de equipamento - Computador;2;2025-06-03;USER_054;LOC_018;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+25331;Suporte à estação de trabalho;0;2025-06-02;USER_024;LOC_007;Suporte N2;Atribuído;;800;
+25117;Solicitação de equipamento - Computador;2;2025-05-30;USER_063;LOC_019;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+25086;Impressora e serviços de impressão;0;2025-05-30;USER_063;LOC_019;Suporte N2;Fechado;2025-06-01;Whatsapp;
+25005;Solicitação de equipamento - Computador;2;2025-05-29;USER_030;LOC_001;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+25000;Solicitação de equipamento - Computador;1;2025-05-29;USER_064;LOC_001;Suporte N2;Estoque;2025-06-25;Whatsapp;Computador
+24867;Solicitação de equipamento - Computador;2;2025-05-29;USER_065;LOC_020;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+24854;Impressora e serviços de impressão;0;2025-05-29;USER_066;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+24712;Suporte à estação de trabalho;0;2025-05-28;USER_067;LOC_021;Equipe Regional;Fechado;2025-05-30;Sistema;
+24709;Solicitação de equipamento - Computador;2;2025-05-28;USER_067;LOC_021;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+24640;Estabilizador/No-break;0;2025-05-28;USER_068;LOC_022;Suporte N2;Atribuído;;800;
+24592;Solicitação de equipamento - Computador;3;2025-05-28;USER_069;LOC_001;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+24507;Suporte à estação de trabalho;0;2025-05-27;USER_070;LOC_023;Bancada;Atribuído;;Whatsapp;
+24494;Solicitação de equipamento - Computador;2;2025-05-27;USER_071;LOC_003;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+24479;Solicitação de equipamento - Computador;3;2025-05-27;USER_072;LOC_023;Suporte N2;Estoque;2025-06-25;Whatsapp;Computador
+24275;Solicitação de equipamento - Computador;1;2025-05-27;USER_029;LOC_001;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+24029;Suporte à estação de trabalho;0;2025-05-26;USER_073;LOC_024;Suporte N2;Fechado;2025-05-28;Whatsapp;
+23780;Solicitação de equipamento - Computador;1;2025-05-23;USER_074;LOC_025;Suporte N2;Estoque;2025-06-15;Sistema;Computador
+23542;Solicitação de equipamento - Computador;3;2025-05-22;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Whatsapp;Computador
+23463;Impressora e serviços de impressão;0;2025-05-21;USER_057;LOC_026;Suporte N2;Atribuído;;Sistema;
+23436;Solicitação de equipamento - Computador;3;2025-05-21;USER_055;LOC_027;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23434;Solicitação de equipamento - Computador;2;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+23432;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23420;Suporte à estação de trabalho;0;2025-05-21;USER_075;LOC_028;Suporte N2;Atribuído;;800;
+23418;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+23416;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23400;Solicitação de equipamento - Computador;1;2025-05-21;USER_044;LOC_012;Bancada;Estoque;2025-06-25;Sistema;Computador
+23308;Solicitação de equipamento - Computador;3;2025-05-21;USER_076;LOC_029;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23305;Solicitação de equipamento - Computador;3;2025-05-21;USER_077;LOC_030;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+23288;Solicitação de equipamento - Computador;3;2025-05-21;USER_077;LOC_003;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23269;Impressora e serviços de impressão;0;2025-05-21;USER_055;LOC_025;Suporte N2;Atribuído;;Whatsapp;
+23260;Solicitação de equipamento - Computador;1;2025-05-21;USER_055;LOC_031;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+23257;Suporte à estação de trabalho;0;2025-05-21;USER_004;LOC_002;Bancada;Atribuído;;800;
+23199;Solicitação de equipamento - Computador;2;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+23197;Solicitação de equipamento - Computador;1;2025-05-20;USER_078;LOC_007;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+23194;Solicitação de equipamento - Computador;3;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+22773;Solicitação de equipamento - Computador;3;2025-05-19;USER_037;LOC_010;Suporte N2;Estoque;2025-06-25;Sistema;Computador
+22750;Solicitação de equipamento - Computador;1;2025-05-19;USER_079;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+22682;Solicitação de equipamento - Periférico - Webcam;2;2025-05-18;USER_010;LOC_005;Suporte N2;Atribuído;;Sistema;Periférico - Webcam
+22637;Solicitação de equipamento - Periférico - Webcam;3;2025-05-16;USER_073;LOC_024;Suporte N2;Fechado;2025-05-18;Whatsapp;Periférico - Webcam
+22377;Impressora e serviços de impressão;0;2025-05-15;USER_080;LOC_001;Suporte N2;Atribuído;;800;
+22259;Solicitação de equipamento - Periférico - Webcam;1;2025-05-15;USER_081;LOC_033;Suporte N2;Estoque;2025-05-25;Sistema;Periférico - Webcam
+22252;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_082;LOC_034;Suporte N2;Estoque;2025-06-15;Whatsapp;Periférico - Webcam
+22250;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_083;LOC_030;Suporte N2;Estoque;2025-05-25;Sistema;Periférico - Webcam
+22235;Solicitação de equipamento - Periférico - Webcam;2;2025-05-15;USER_084;LOC_035;Suporte N2;Estoque;2025-06-15;Whatsapp;Periférico - Webcam
+22197;Solicitação de equipamento - Periférico - Webcam;2;2025-05-15;USER_085;LOC_016;Suporte N2;Estoque;2025-05-25;Sistema;Periférico - Webcam
+22192;Solicitação de equipamento - Computador;3;2025-05-15;USER_045;LOC_013;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+21752;Solicitação de equipamento - Computador;3;2025-05-13;USER_086;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+21610;Solicitação de equipamento - Computador;3;2025-05-13;USER_087;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+21473;Solicitação de equipamento - Computador;3;2025-05-12;USER_001;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+21368;Estabilizador/No-break;0;2025-05-12;USER_088;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+21316;Solicitação de equipamento - Computador;2;2025-05-09;USER_089;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+21177;Solicitação de equipamento - Computador;3;2025-05-09;USER_090;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+21172;Solicitação de equipamento - Computador;2;2025-05-09;USER_090;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+21154;Solicitação de equipamento - Computador;3;2025-05-09;USER_091;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+21011;Solicitação de equipamento - Computador;1;2025-05-08;USER_092;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+20957;Solicitação de equipamento - Computador;3;2025-05-08;USER_079;LOC_001;Suporte N2;Estoque;2025-06-15;Whatsapp;Computador
+20799;Solicitação de equipamento - Computador;3;2025-05-07;USER_093;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+19975;Suporte à estação de trabalho;0;2025-05-02;USER_017;LOC_001;Suporte N2;Atribuído;;800;
+19833;Solicitação de equipamento - Computador;2;2025-04-30;USER_094;LOC_001;Suporte N2;Estoque;2025-05-15;Sistema;Computador
+19562;Suporte à estação de trabalho;0;2025-04-29;USER_074;LOC_025;Suporte N2;Fechado;2025-05-01;Whatsapp;
+19506;Solicitação de equipamento - Computador;1;2025-04-29;USER_095;LOC_011;Suporte N2;Estoque;2025-05-15;Sistema;Computador
+19343;Estabilizador/No-break;0;2025-04-28;USER_054;LOC_036;Suporte N2;Atribuído;;Whatsapp;
+19340;Solicitação de equipamento - Computador;1;2025-04-28;USER_054;LOC_036;Suporte N2;Estoque;2025-05-15;Sistema;Computador
+18991;Suporte à estação de trabalho;0;2025-04-25;USER_082;LOC_034;Suporte N2;Atribuído;;800;
+18824;Solicitação de equipamento - Computador;1;2025-04-24;USER_096;LOC_037;Suporte N2;Estoque;2025-05-15;Whatsapp;Computador
+18743;Solicitação de equipamento - Computador;1;2025-04-24;USER_097;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+18552;Solicitação de equipamento - Computador;2;2025-04-23;USER_098;LOC_001;Suporte N2;Estoque;2025-05-15;Whatsapp;Computador
+18335;Solicitação de equipamento - Computador;1;2025-04-22;USER_028;LOC_001;Suporte N2;Estoque;2025-05-25;Sistema;Computador
+18015;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Atribuído;;Whatsapp;Periférico - Fone
+18014;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Fechado;2025-04-17;Sistema;Periférico - Fone
+18004;Solicitação de equipamento - Periférico - Fone;1;2025-04-15;USER_099;LOC_001;Suporte N2;Atribuído;;800;Periférico - Fone
+17578;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;Periférico - Fone
+17576;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;Periférico - Fone
+17474;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;Periférico - Fone
+17471;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;Periférico - Fone
+17465;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_017;LOC_001;Suporte N2;Estoque;2025-04-25;Sistema;Periférico - Fone
+17463;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;Periférico - Fone
+17427;Solicitação de equipamento - Periférico - Fone;3;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-04-25;Sistema;Periférico - Fone
+17414;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;2025-05-15;Whatsapp;Periférico - Fone
+17136;Solicitação de equipamento - Computador;2;2025-04-09;USER_017;LOC_001;Suporte N2;Estoque;2025-04-25;Sistema;Computador
+16986;Suporte à estação de trabalho;0;2025-04-09;USER_100;LOC_001;Bancada;Atribuído;;Whatsapp;
+16364;Solicitação de equipamento - Computador;3;2025-04-04;USER_091;LOC_001;Suporte N2;Estoque;2025-04-15;Sistema;Computador
+15535;Solicitação de equipamento - Computador;2;2025-04-01;USER_101;LOC_001;Suporte N2;Estoque;2025-04-15;Whatsapp;Computador
+15385;Solicitação de equipamento - Computador;1;2025-03-31;USER_102;LOC_005;Suporte N2;Estoque;2025-04-15;Sistema;Computador
+15221;Solicitação de equipamento - Computador;1;2025-03-31;USER_063;LOC_019;Suporte N2;Estoque;2025-04-25;Whatsapp;Computador
+15220;Solicitação de equipamento - Computador;2;2025-03-31;USER_063;LOC_019;Suporte N2;Estoque;2025-04-15;Sistema;Computador
+14991;Solicitação de equipamento - Computador;2;2025-03-28;USER_103;LOC_001;Suporte N2;Estoque;2025-04-15;Whatsapp;Computador
+14621;Solicitação de equipamento - Computador;3;2025-03-26;USER_086;LOC_001;Suporte N2;Estoque;2025-04-15;Sistema;Computador
+13484;Solicitação de equipamento - Computador;3;2025-03-20;USER_104;LOC_036;Suporte N2;Estoque;2025-04-15;Whatsapp;Computador
+13184;Solicitação de equipamento - Computador;3;2025-03-19;USER_105;LOC_001;Suporte N2;Estoque;2025-03-25;Sistema;Computador
+12891;Impressora e serviços de impressão;0;2025-03-18;USER_010;LOC_005;Suporte N2;Atribuído;;Whatsapp;
+12839;Solicitação de equipamento - Computador;3;2025-03-18;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Sistema;Computador
+12520;Impressora e serviços de impressão;0;2025-03-14;USER_010;LOC_005;Suporte N2;Fechado;2025-03-16;Whatsapp;
+12325;Solicitação de equipamento - Computador;1;2025-03-13;USER_049;LOC_015;Suporte N2;Estoque;2025-03-25;Sistema;Computador
+11888;Solicitação de equipamento - Computador;2;2025-03-12;USER_106;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;Computador
+11877;Solicitação de equipamento - Computador;2;2025-03-12;USER_106;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;Computador
+11392;Solicitação de equipamento - Computador;3;2025-03-10;USER_107;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;Computador
+10706;Solicitação de equipamento - Computador;2;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;Computador
+10696;Solicitação de equipamento - Computador;3;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;Computador
+10693;Solicitação de equipamento - Computador;1;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-15;Sistema;Computador
+10689;Solicitação de equipamento - Computador;2;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;2025-03-25;Whatsapp;Computador
+10589;Estabilizador/No-break;0;2025-02-28;USER_085;LOC_016;Estagiário;Atribuído;;800;
+10004;Solicitação de equipamento - Computador;1;2025-02-26;USER_108;LOC_038;Suporte N2;Estoque;2025-03-15;Sistema;Computador
+9625;Suporte à estação de trabalho;0;2025-02-24;USER_024;LOC_007;Bancada;Fechado;2025-02-26;Whatsapp;
+9226;Solicitação de equipamento - Computador;1;2025-02-21;USER_109;LOC_039;Suporte N2;Estoque;2025-03-15;Sistema;Computador
+8852;Solicitação de equipamento - Periférico - Teclado;2;2025-02-19;USER_110;LOC_040;Suporte N2;Atribuído;;Whatsapp;Periférico - Teclado
+8135;Suporte à estação de trabalho;0;2025-02-14;USER_082;LOC_034;Suporte N2;Fechado;2025-02-16;Sistema;
+7287;Solicitação de equipamento - Periférico - Teclado;3;2025-02-11;USER_111;LOC_001;Estagiário;Estoque;2025-02-25;Whatsapp;Periférico - Teclado
+6741;Solicitação de equipamento - Periférico - Teclado;3;2025-02-07;USER_112;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Teclado
+6531;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_041;Suporte N2;Estoque;2025-02-25;Whatsapp;Periférico - Teclado
+6530;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_041;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Teclado
+6510;Solicitação de equipamento - Periférico - Teclado;1;2025-02-06;USER_113;LOC_040;Estagiário;Estoque;2025-02-25;Whatsapp;Periférico - Teclado
+6220;Solicitação de equipamento - Periférico - Mouse;3;2025-02-04;USER_010;LOC_005;Estagiário;Estoque;2025-02-15;Sistema;Periférico - Mouse
+6164;Solicitação de equipamento - Periférico - Mouse;2;2025-02-04;USER_054;LOC_018;Estagiário;Estoque;2025-02-25;Whatsapp;Periférico - Mouse
+4941;Solicitação de equipamento - Periférico - Mouse;1;2025-01-29;USER_114;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Mouse
+4905;Solicitação de equipamento - Periférico - Mouse;3;2025-01-28;USER_115;LOC_001;Suporte N2;Estoque;2025-02-25;Whatsapp;Periférico - Mouse
+4567;Solicitação de equipamento - Monitor;3;2025-01-27;USER_096;LOC_037;Suporte N2;Estoque;2025-02-15;Sistema;Monitor
+4479;Impressora e serviços de impressão;0;2025-01-27;USER_116;LOC_001;Suporte N2;Atribuído;;Whatsapp;
+4416;Estabilizador/No-break;0;2025-01-24;USER_117;LOC_042;Estagiário;Fechado;2025-01-26;Sistema;
+4107;Solicitação de equipamento - Periférico - Mouse;1;2025-01-23;USER_010;LOC_005;Estagiário;Estoque;2025-02-15;Whatsapp;Periférico - Mouse
+3925;Suporte à estação de trabalho;0;2025-01-22;USER_016;LOC_001;Suporte N2;Atribuído;;Sistema;
+3538;Solicitação de equipamento - Periférico - Mouse;2;2025-01-20;USER_118;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;Periférico - Mouse
+2863;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_119;LOC_043;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Mouse
+2733;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_113;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;Periférico - Mouse
+2727;Solicitação de equipamento - Periférico - Mouse;1;2025-01-15;USER_096;LOC_037;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Mouse
+1904;Solicitação de equipamento - Periférico - Mouse;2;2025-01-09;USER_016;LOC_001;Estagiário;Estoque;2025-01-25;Whatsapp;Periférico - Mouse
+1810;Solicitação de equipamento - Periférico - Mouse;3;2025-01-09;USER_120;LOC_001;Suporte N2;Estoque;2025-02-15;Sistema;Periférico - Mouse
+1469;Solicitação de equipamento - Periférico - Mouse;1;2025-01-08;USER_121;LOC_001;Suporte N2;Estoque;2025-01-25;Whatsapp;Periférico - Mouse
