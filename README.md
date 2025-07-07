@@ -6,7 +6,7 @@ O objetivo principal aqui é implementar um pipeline que faça a limpeza, organi
 
 ---
 
-## 📦 Como clonar o projeto
+## 📦 Como clonar e executar o projeto
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -14,6 +14,18 @@ cd seu-repositorio
 ```
 
 > Copie o link do projeto: https://github.com/dataPalacio/support-tickets-analytics.git
+
+---
+### Execute o projeto a partir do arquivo
+
+
+```python
+from scripts.main import exec_pipeline
+
+df_final = exec_pipeline("data/arquivo.csv", save_csv="output/saida.csv")
+```
+
+Se quiser só ver o resultado sem salvar, é só não passar o `save_csv`.
 
 ---
 
@@ -55,18 +67,7 @@ cd seu-repositorio
 
 ---
 
-## 🛠️ Como executar
 
-
-```python
-from scripts.main import exec_pipeline
-
-df_final = exec_pipeline("data/arquivo.csv", save_csv="output/saida.csv")
-```
-
-Se quiser só ver o resultado sem salvar, é só não passar o `save_csv`.
-
----
 
 ## 🚀 O que o pipeline entrega?
 
