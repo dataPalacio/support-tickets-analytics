@@ -44,13 +44,11 @@ def padronizar_col(df):
         "Data de abertura": 'data_abertura',
         "Requerente - Requerente": 'requerente',
         "Localização": 'localizacao',
-        "Descrição": 'descricao',
         "Atribuído - Responsável": 'p_responsavel',
         "Atribuído - Grupo técnico": 'g_responsavel',
         "Status": 'status',
         "Data de fechamento": 'data_fechamento',
         "Contato": 'contato',
-        "Feedback": 'feedback'
     }
     # Remove acentos e padroniza para minúsculo
     df = df.rename(columns=mapa_nomes)

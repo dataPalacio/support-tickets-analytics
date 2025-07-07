@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 id;titulo;equipamento_qtd;data_abertura;requerente;localizacao;g_responsavel;status;data_fechamento;contato;equipamento
+=======
+id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atribuído - Grupo técnico;Status;Data de fechamento;Contato;equipamento
+>>>>>>> db90935 (update datasets)
 30212;Suporte à estação de trabalho;0;2025-07-01;USER_001;LOC_001;Bancada;Atribuído;;Whatsapp;
 30210;Suporte à estação de trabalho;0;2025-07-01;USER_002;LOC_001;Suporte N2;Fechado;2025-07-03;Sistema;
 30167;Suporte à estação de trabalho;0;2025-07-01;USER_003;LOC_001;Suporte N2;Pendente;;Sistema;
