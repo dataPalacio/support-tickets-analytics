@@ -65,11 +65,6 @@ def dclean(df):
         df['localizacao'] = df['localizacao'].astype(str).str.strip()
     if 'g_responsavel' in df:
         df['g_responsavel'] = df['g_responsavel'].astype(str).str.strip()
-    if 'descricao' in df:
-        df['descricao'] = (df['descricao'].astype(str)
-                           .str.replace(r'DADOS DO FORMULÁRIO|Informações Obrigatórias', '', regex=True)
-                           .str.replace(r'\n+', ' ', regex=True)
-                           .str.strip())
     if 'data_abertura' in df:
         df['data_abertura'] = (
             df['data_abertura']
@@ -173,7 +168,9 @@ def exec_pipeline(caminho_arquivo, save_csv=None):
     'status',
     'data_fechamento',
     'contato',
-    'feedback'
+    'feedback',
+    'responsavel',
+
     ]
     df = excluir_colunas_exceto(df, colunas_para_manter)
 
