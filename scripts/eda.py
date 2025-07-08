@@ -1,6 +1,7 @@
 # === Estatísticas do DataFrame ===
 def rows_cols(df):
     if df is not None:
+        print('----- Estatisticas Descritivas -----')
         print("Linhas:", df.shape[0])
         print("Colunas:", df.shape[1])
 
