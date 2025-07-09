@@ -1,21 +1,21 @@
 Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atribuído - Grupo técnico;Status;Data de fechamento;Contato;equipamento
-30212;Suporte à estação de trabalho;0;2025-07-01;USER_001;LOC_001;Bancada;Atribuído;;Whatsapp;
+30212;Suporte à estação de trabalho;0;2025-07-01;USER_001;LOC_001;Bancada;Atribuído;;Central 0800;
 30210;Suporte à estação de trabalho;0;2025-07-01;USER_002;LOC_001;Suporte N2;Fechado;2025-07-03;Sistema;
 30167;Suporte à estação de trabalho;0;2025-07-01;USER_003;LOC_001;Suporte N2;Pendente;;Sistema;
-30159;Suporte à estação de trabalho;0;2025-07-01;USER_004;LOC_002;Bancada;Atribuído;;800;
+30159;Suporte à estação de trabalho;0;2025-07-01;USER_004;LOC_002;Bancada;Atribuído;;Central 0800;
 30158;Suporte à estação de trabalho;0;2025-07-01;USER_005;LOC_001;Suporte N2;Fechado;2025-07-05;Whatsapp;
 30128;Solicitação de equipamento - Computador;3;2025-07-01;USER_006;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 30127;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Atribuído;;Whatsapp;
 30123;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Pendente;;Sistema;
 30115;Suporte em eventos;0;2025-07-01;USER_007;LOC_003;Equipe Regional;Fechado;2025-07-04;Sistema;
-30078;Estabilizador/No-break;0;2025-07-01;USER_008;LOC_004;Suporte N2;Atribuído;;800;
+30078;Estabilizador/No-break;0;2025-07-01;USER_008;LOC_004;Suporte N2;Atribuído;;Central 0800;
 30077;Solicitação de equipamento - Estabilizador/Nobreak;3;2025-07-01;USER_008;LOC_004;Suporte N2;Estoque;;Whatsapp;Estabilizador/Nobreak
 30071;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Bancada;Fechado;2025-07-03;Sistema;
 30060;Suporte à estação de trabalho;0;2025-07-01;USER_009;LOC_005;Suporte N2;Atribuído;;Whatsapp;
 30053;Solicitação de equipamento - Computador;2;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 30022;Suporte em eventos;0;2025-06-30;USER_011;LOC_001;Eventos;Pendente;;Sistema;
 30006;Solicitação de equipamento - Computador;2;2025-06-30;USER_012;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
-29985;Usuário da rede institucional;0;2025-06-30;USER_013;LOC_001;Suporte N2;Atribuído;;800;
+29985;Usuário da rede institucional;0;2025-06-30;USER_013;LOC_001;Suporte N2;Atribuído;;Central 0800;
 29970;Solicitação de equipamento - Computador;3;2025-06-30;USER_010;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 29952;Rede, Intranet e Internet;0;2025-06-30;USER_014;LOC_001;Suporte N2;Fechado;2025-07-02;Whatsapp;
 29951;Rede, Intranet e Internet;0;2025-06-30;USER_015;LOC_001;Suporte N2;Atribuído;;Sistema;
@@ -23,28 +23,28 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 29944;Suporte à estação de trabalho;0;2025-06-30;USER_016;LOC_001;Bancada;Atribuído;;Whatsapp;
 29897;Solicitação de equipamento - Computador;2;2025-06-30;USER_017;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 29889;Backup;0;2025-06-30;USER_018;LOC_001;Suporte N2;Fechado;2025-07-01;Whatsapp;
-29835;Solicitação de equipamento - Computador;1;2025-06-30;USER_019;LOC_001;Suporte N2;Estoque;;800;Computador
+29835;Solicitação de equipamento - Computador;1;2025-06-30;USER_019;LOC_001;Suporte N2;Estoque;;Central 0800;Computador
 29822;Suporte à estação de trabalho;0;2025-06-30;USER_017;LOC_001;Bancada;Atribuído;;Sistema;
 29793;Suporte à estação de trabalho;0;2025-06-30;USER_009;LOC_005;Bancada;Fechado;2025-07-02;Whatsapp;
 29787;Solicitação de equipamento - Computador;1;2025-06-30;USER_009;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 29774;Solicitação de equipamento - Computador;2;2025-06-29;USER_020;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
-29718;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Atribuído;;800;
+29718;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Atribuído;;Central 0800;
 29572;Suporte em eventos;0;2025-06-27;USER_011;LOC_001;Eventos;Pendente;;Sistema;
 29559;Suporte à estação de trabalho;0;2025-06-27;USER_021;LOC_001;Bancada;Atribuído;;Whatsapp;
 29551;Suporte à estação de trabalho;0;2025-06-27;USER_022;LOC_001;Suporte N2;Fechado;2025-06-29;Sistema;
 29479;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;;Whatsapp;Computador
-29478;Suporte em eventos;0;2025-06-26;USER_011;LOC_001;Eventos;Atribuído;;800;
+29478;Suporte em eventos;0;2025-06-26;USER_011;LOC_001;Eventos;Atribuído;;Central 0800;
 29413;Certificado Digital;0;2025-06-26;USER_024;LOC_007;Suporte N2;Fechado;2025-06-27;Sistema;
 29407;Solicitação de equipamento - Computador;3;2025-06-26;USER_025;LOC_008;Suporte N2;Estoque;;Whatsapp;Computador
 29399;Solicitação de equipamento - Computador;1;2025-06-26;USER_026;LOC_005;Suporte N2;Estoque;;Sistema;Computador
-29379;Impressora e serviços de impressão;0;2025-06-26;USER_026;LOC_005;Suporte N2;Atribuído;;800;
+29379;Impressora e serviços de impressão;0;2025-06-26;USER_026;LOC_005;Suporte N2;Atribuído;;Central 0800;
 29360;Solicitação de equipamento - Computador;2;2025-06-26;USER_027;LOC_003;Suporte N2;Estoque;;Whatsapp;Computador
 29348;Suporte à estação de trabalho;0;2025-06-26;USER_028;LOC_001;Suporte N2;Fechado;2025-06-28;Sistema;
 29346;Impressora e serviços de impressão;0;2025-06-26;USER_029;LOC_001;Suporte N2;Atribuído;;Whatsapp;
 29343;Suporte à estação de trabalho;0;2025-06-26;USER_009;LOC_005;Suporte N2;Pendente;;Sistema;
 29265;Solicitação de equipamento - Computador;3;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;;Sistema;Computador
 29261;Solicitação de equipamento - Computador;2;2025-06-26;USER_023;LOC_006;Suporte N2;Estoque;;Whatsapp;Computador
-29209;Suporte à estação de trabalho;0;2025-06-25;USER_030;LOC_001;Suporte N2;Atribuído;;800;
+29209;Suporte à estação de trabalho;0;2025-06-25;USER_030;LOC_001;Suporte N2;Atribuído;;Central 0800;
 29160;Suporte em eventos;0;2025-06-25;USER_011;LOC_001;Eventos;Fechado;2025-06-27;Sistema;
 29129;Suporte à estação de trabalho;0;2025-06-25;USER_031;LOC_003;Equipe Regional;Atribuído;;Whatsapp;
 29120;Suporte à estação de trabalho;0;2025-06-25;USER_032;LOC_001;Suporte N2;Pendente;;Sistema;
@@ -52,7 +52,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 28952;Solicitação de equipamento - Computador;1;2025-06-24;USER_034;LOC_009;Suporte N2;Estoque;;Whatsapp;Computador
 28907;E-mail Institucional;0;2025-06-23;USER_035;LOC_005;Suporte N2;Fechado;2025-06-25;Sistema;
 28805;Solicitação de equipamento - Computador;2;2025-06-23;USER_023;LOC_006;Suporte N2;Estoque;;Whatsapp;Computador
-28804;Suporte à estação de trabalho;0;2025-06-23;USER_032;LOC_001;Bancada;Atribuído;;800;
+28804;Suporte à estação de trabalho;0;2025-06-23;USER_032;LOC_001;Bancada;Atribuído;;Central 0800;
 28797;Certificado Digital;0;2025-06-23;USER_036;LOC_003;Suporte N2;Fechado;2025-06-24;Sistema;
 28785;Suporte à estação de trabalho;0;2025-06-23;USER_009;LOC_005;Bancada;Atribuído;;Whatsapp;
 28756;Solicitação de equipamento - Computador;3;2025-06-23;USER_037;LOC_010;Suporte N2;Estoque;;Sistema;Computador
@@ -63,7 +63,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 28642;Suporte à estação de trabalho;0;2025-06-23;USER_040;LOC_001;Suporte N2;Pendente;;Sistema;
 28592;Solicitação de equipamento - Computador;1;2025-06-18;USER_041;LOC_009;Suporte N2;Estoque;;Sistema;Computador
 28577;Suporte à estação de trabalho;0;2025-06-18;USER_042;LOC_005;Suporte N2;Atribuído;;Whatsapp;
-28569;Solicitação de equipamento - Computador;1;2025-06-18;USER_037;LOC_010;Suporte N2;Estoque;;800;Computador
+28569;Solicitação de equipamento - Computador;1;2025-06-18;USER_037;LOC_010;Suporte N2;Estoque;;Central 0800;Computador
 28364;Solicitação de equipamento - Computador;3;2025-06-18;USER_043;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 28232;Solicitação de equipamento - Computador;3;2025-06-17;USER_044;LOC_012;Suporte N2;Estoque;;Sistema;Computador
 28089;Solicitação de equipamento - Computador;1;2025-06-17;USER_045;LOC_013;Suporte N2;Estoque;;Whatsapp;Computador
@@ -78,7 +78,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 27198;Suporte à estação de trabalho;0;2025-06-11;USER_052;LOC_001;Suporte N2;Pendente;;Sistema;
 27038;Solicitação de equipamento - Computador;3;2025-06-10;USER_053;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 26962;Solicitação de equipamento - Computador;3;2025-06-10;USER_054;LOC_014;Suporte N2;Estoque;;Whatsapp;Computador
-26958;Suporte à estação de trabalho;0;2025-06-10;USER_010;LOC_005;Suporte N2;Atribuído;;800;
+26958;Suporte à estação de trabalho;0;2025-06-10;USER_010;LOC_005;Suporte N2;Atribuído;;Central 0800;
 26718;Solicitação de equipamento - Computador;2;2025-06-09;USER_055;LOC_013;Suporte N2;Estoque;;Sistema;Computador
 26627;Impressora e serviços de impressão;0;2025-06-09;USER_029;LOC_001;Suporte N2;Fechado;2025-06-11;Whatsapp;
 26484;Solicitação de equipamento - Computador;2;2025-06-06;USER_056;LOC_001;Suporte N2;Estoque;;Sistema;Computador
@@ -86,7 +86,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 26450;Solicitação de equipamento - Computador;3;2025-06-06;USER_054;LOC_008;Suporte N2;Estoque;;Sistema;Computador
 26376;Impressora e serviços de impressão;0;2025-06-06;USER_056;LOC_001;Suporte N2;Atribuído;;Whatsapp;
 26302;Estabilizador/No-break;0;2025-06-05;USER_057;LOC_017;Suporte N2;Fechado;2025-06-07;Sistema;
-26284;Impressora e serviços de impressão;0;2025-06-05;USER_051;LOC_009;Apoio a Estagiário;Atribuído;;800;
+26284;Impressora e serviços de impressão;0;2025-06-05;USER_051;LOC_009;Apoio a Estagiário;Atribuído;;Central 0800;
 26281;Solicitação de equipamento - Computador;3;2025-06-05;USER_058;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 26271;Solicitação de equipamento - Computador;2;2025-06-05;USER_059;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 26150;Solicitação de equipamento - Computador;3;2025-06-05;USER_060;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
@@ -94,7 +94,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 25878;Impressora e serviços de impressão;0;2025-06-04;USER_017;LOC_001;Suporte N2;Fechado;2025-06-06;Whatsapp;
 25809;Solicitação de equipamento - Computador;1;2025-06-04;USER_062;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 25650;Solicitação de equipamento - Computador;2;2025-06-03;USER_054;LOC_018;Suporte N2;Estoque;;Whatsapp;Computador
-25331;Suporte à estação de trabalho;0;2025-06-02;USER_024;LOC_007;Suporte N2;Atribuído;;800;
+25331;Suporte à estação de trabalho;0;2025-06-02;USER_024;LOC_007;Suporte N2;Atribuído;;Central 0800;
 25117;Solicitação de equipamento - Computador;2;2025-05-30;USER_063;LOC_019;Suporte N2;Estoque;;Sistema;Computador
 25086;Impressora e serviços de impressão;0;2025-05-30;USER_063;LOC_019;Suporte N2;Fechado;2025-06-01;Whatsapp;
 25005;Solicitação de equipamento - Computador;2;2025-05-29;USER_030;LOC_001;Suporte N2;Estoque;;Sistema;Computador
@@ -103,7 +103,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 24854;Impressora e serviços de impressão;0;2025-05-29;USER_066;LOC_001;Suporte N2;Atribuído;;Whatsapp;
 24712;Suporte à estação de trabalho;0;2025-05-28;USER_067;LOC_021;Equipe Regional;Fechado;2025-05-30;Sistema;
 24709;Solicitação de equipamento - Computador;2;2025-05-28;USER_067;LOC_021;Suporte N2;Estoque;;Whatsapp;Computador
-24640;Estabilizador/No-break;0;2025-05-28;USER_068;LOC_022;Suporte N2;Atribuído;;800;
+24640;Estabilizador/No-break;0;2025-05-28;USER_068;LOC_022;Suporte N2;Atribuído;;Central 0800;
 24592;Solicitação de equipamento - Computador;3;2025-05-28;USER_069;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 24507;Suporte à estação de trabalho;0;2025-05-27;USER_070;LOC_023;Bancada;Atribuído;;Whatsapp;
 24494;Solicitação de equipamento - Computador;2;2025-05-27;USER_071;LOC_003;Suporte N2;Estoque;;Sistema;Computador
@@ -116,7 +116,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 23436;Solicitação de equipamento - Computador;3;2025-05-21;USER_055;LOC_027;Suporte N2;Estoque;;Whatsapp;Computador
 23434;Solicitação de equipamento - Computador;2;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 23432;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;;Whatsapp;Computador
-23420;Suporte à estação de trabalho;0;2025-05-21;USER_075;LOC_028;Suporte N2;Atribuído;;800;
+23420;Suporte à estação de trabalho;0;2025-05-21;USER_075;LOC_028;Suporte N2;Atribuído;;Central 0800;
 23418;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;;Sistema;Computador
 23416;Solicitação de equipamento - Computador;1;2025-05-21;USER_010;LOC_005;Suporte N2;Estoque;;Whatsapp;Computador
 23400;Solicitação de equipamento - Computador;1;2025-05-21;USER_044;LOC_012;Bancada;Estoque;;Sistema;Computador
@@ -125,7 +125,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 23288;Solicitação de equipamento - Computador;3;2025-05-21;USER_077;LOC_003;Suporte N2;Estoque;;Whatsapp;Computador
 23269;Impressora e serviços de impressão;0;2025-05-21;USER_055;LOC_025;Suporte N2;Atribuído;;Whatsapp;
 23260;Solicitação de equipamento - Computador;1;2025-05-21;USER_055;LOC_031;Suporte N2;Estoque;;Sistema;Computador
-23257;Suporte à estação de trabalho;0;2025-05-21;USER_004;LOC_002;Bancada;Atribuído;;800;
+23257;Suporte à estação de trabalho;0;2025-05-21;USER_004;LOC_002;Bancada;Atribuído;;Central 0800;
 23199;Solicitação de equipamento - Computador;2;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;;Whatsapp;Computador
 23197;Solicitação de equipamento - Computador;1;2025-05-20;USER_078;LOC_007;Suporte N2;Estoque;;Sistema;Computador
 23194;Solicitação de equipamento - Computador;3;2025-05-20;USER_078;LOC_032;Suporte N2;Estoque;;Whatsapp;Computador
@@ -133,7 +133,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 22750;Solicitação de equipamento - Computador;1;2025-05-19;USER_079;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 22682;Solicitação de equipamento - Periférico - Webcam;2;2025-05-18;USER_010;LOC_005;Suporte N2;Atribuído;;Sistema;Periférico - Webcam
 22637;Solicitação de equipamento - Periférico - Webcam;3;2025-05-16;USER_073;LOC_024;Suporte N2;Fechado;2025-05-18;Whatsapp;Periférico - Webcam
-22377;Impressora e serviços de impressão;0;2025-05-15;USER_080;LOC_001;Suporte N2;Atribuído;;800;
+22377;Impressora e serviços de impressão;0;2025-05-15;USER_080;LOC_001;Suporte N2;Atribuído;;Central 0800;
 22259;Solicitação de equipamento - Periférico - Webcam;1;2025-05-15;USER_081;LOC_033;Suporte N2;Estoque;;Sistema;Periférico - Webcam
 22252;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_082;LOC_034;Suporte N2;Estoque;;Whatsapp;Periférico - Webcam
 22250;Solicitação de equipamento - Periférico - Webcam;3;2025-05-15;USER_083;LOC_030;Suporte N2;Estoque;;Sistema;Periférico - Webcam
@@ -151,20 +151,20 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 21011;Solicitação de equipamento - Computador;1;2025-05-08;USER_092;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 20957;Solicitação de equipamento - Computador;3;2025-05-08;USER_079;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 20799;Solicitação de equipamento - Computador;3;2025-05-07;USER_093;LOC_001;Suporte N2;Estoque;;Sistema;Computador
-19975;Suporte à estação de trabalho;0;2025-05-02;USER_017;LOC_001;Suporte N2;Atribuído;;800;
+19975;Suporte à estação de trabalho;0;2025-05-02;USER_017;LOC_001;Suporte N2;Atribuído;;Central 0800;
 19833;Solicitação de equipamento - Computador;2;2025-04-30;USER_094;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 19562;Suporte à estação de trabalho;0;2025-04-29;USER_074;LOC_025;Suporte N2;Fechado;2025-05-01;Whatsapp;
 19506;Solicitação de equipamento - Computador;1;2025-04-29;USER_095;LOC_011;Suporte N2;Estoque;;Sistema;Computador
 19343;Estabilizador/No-break;0;2025-04-28;USER_054;LOC_036;Suporte N2;Atribuído;;Whatsapp;
 19340;Solicitação de equipamento - Computador;1;2025-04-28;USER_054;LOC_036;Suporte N2;Estoque;;Sistema;Computador
-18991;Suporte à estação de trabalho;0;2025-04-25;USER_082;LOC_034;Suporte N2;Atribuído;;800;
+18991;Suporte à estação de trabalho;0;2025-04-25;USER_082;LOC_034;Suporte N2;Atribuído;;Central 0800;
 18824;Solicitação de equipamento - Computador;1;2025-04-24;USER_096;LOC_037;Suporte N2;Estoque;;Whatsapp;Computador
 18743;Solicitação de equipamento - Computador;1;2025-04-24;USER_097;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 18552;Solicitação de equipamento - Computador;2;2025-04-23;USER_098;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 18335;Solicitação de equipamento - Computador;1;2025-04-22;USER_028;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 18015;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Atribuído;;Whatsapp;Periférico - Fone
 18014;Solicitação de equipamento - Periférico - Fone;2;2025-04-15;USER_022;LOC_001;Suporte N2;Fechado;2025-04-17;Sistema;Periférico - Fone
-18004;Solicitação de equipamento - Periférico - Fone;1;2025-04-15;USER_099;LOC_001;Suporte N2;Atribuído;;800;Periférico - Fone
+18004;Solicitação de equipamento - Periférico - Fone;1;2025-04-15;USER_099;LOC_001;Suporte N2;Atribuído;;Central 0800;Periférico - Fone
 17578;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;;Sistema;Periférico - Fone
 17576;Solicitação de equipamento - Periférico - Fone;2;2025-04-11;USER_044;LOC_012;Suporte N2;Estoque;;Whatsapp;Periférico - Fone
 17474;Solicitação de equipamento - Periférico - Fone;1;2025-04-10;USER_044;LOC_012;Suporte N2;Estoque;;Sistema;Periférico - Fone
@@ -195,7 +195,7 @@ Id;Título;Equipamento Quantidade;Data de abertura;Requerente;Localização;Atri
 10696;Solicitação de equipamento - Computador;3;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
 10693;Solicitação de equipamento - Computador;1;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;;Sistema;Computador
 10689;Solicitação de equipamento - Computador;2;2025-03-06;USER_029;LOC_001;Suporte N2;Estoque;;Whatsapp;Computador
-10589;Estabilizador/No-break;0;2025-02-28;USER_085;LOC_016;Estagiário;Atribuído;;800;
+10589;Estabilizador/No-break;0;2025-02-28;USER_085;LOC_016;Estagiário;Atribuído;;Central 0800;
 10004;Solicitação de equipamento - Computador;1;2025-02-26;USER_108;LOC_038;Suporte N2;Estoque;;Sistema;Computador
 9625;Suporte à estação de trabalho;0;2025-02-24;USER_024;LOC_007;Bancada;Fechado;2025-02-26;Whatsapp;
 9226;Solicitação de equipamento - Computador;1;2025-02-21;USER_109;LOC_039;Suporte N2;Estoque;;Sistema;Computador
