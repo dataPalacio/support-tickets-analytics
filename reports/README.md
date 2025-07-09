@@ -47,12 +47,12 @@
  <div align="center"><img src="distribuicao_chamados_por_canal_atendimento.png" width="600"></div>
 
 - **Canais principais**:  
-  - "Sistema" (47.09%) e "Whatsapp" (43.50%) dominam.  
-  - "800" tem participação menor (9.42%).  
+  - "Sistema" (47.09%) e "Whatsapp" (43.05%) dominam.  
+  - "Central 0800" tem participação menor (9.87%).  
 
 ### Conclusões Preliminares:  
 - Computadores são os equipamentos mais problemáticos.  
 - Suporte N2 é o grupo técnico mais sobrecarregado.  
 - Junho (Mês 6) apresenta pico de demanda.  
 - Chamados em "Estoque" indicam possível gargalo na resolução.  
-- Canais digitais ("Sistema" e "Whatsapp") são os preferidos para abertura de chamados.  
+- Canais digitais ("Sistema" e "Whatsapp") são os preferidos para abertura de chamados.
